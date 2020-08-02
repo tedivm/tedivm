@@ -30,19 +30,19 @@ class PortfolioBuilder:
         self.readme_template = get_template('readme')
 
 
-    def get_project_element(self, project):
-        return self.project_template.render(project=project)
+    def get_project_element(self, category, project):
+        return self.project_template.render(project=project, category=category)
 
 
-    def get_project_grid(self, projects):
+    def get_project_grid(self, category):
         output = "<table>\n\n"
         element = 0
-        for project in projects:
+        for project in category['projects']:
             element += 1
             if element == 1:
                 output += "<tr>\n\n"
             output += "<td valign=\"top\">\n"
-            output += self.get_project_element(project) + "\n"
+            output += self.get_project_element(category, project) + "\n"
             output += "</td>\n\n"
             if element == self.columns:
                 output += "</tr>\n"
@@ -58,7 +58,7 @@ class PortfolioBuilder:
 
 
     def get_category(self, category):
-        project_grid = self.get_project_grid(category['projects'])
+        project_grid = self.get_project_grid(category)
         return self.category_template.render(category=category, project_grid=project_grid)
 
 

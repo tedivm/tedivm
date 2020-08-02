@@ -62,7 +62,8 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/gitstars">GitStars</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.svg" /></div>
+  </div>
 <div>
   A Github API aimed at Front End use. This API uses extensive caching and authenticated APIs to work around Github API Ratelimiting. It drives the <a href="https://gitbuttons.tedivm.com">Github Star Badges</a> on this very site.
 </div>
@@ -74,7 +75,8 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/ec2details">ec2details</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/aws.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/aws.svg" /></div>
+  </div>
 <div>
   This service provides an API with metadata (including pricing) for every AWS EC2 instance type.
 It processes the AWS Bulk API to multiple times a day to always provide the most up to date information.
@@ -135,7 +137,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedious/Stash">Stash</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" /></div>
+  </div>
 <div>
   This caching library supports multiple backends with a consistent frontend. It supports hierarchical keys, stampede and dogpile protection, automatic miss distribution, and more.
 </div>
@@ -144,7 +147,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedious/JShrink">JShrink</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" /></div>
+  </div>
 <div>
   This library minifies javascript using 100% pure PHP, allowing it to be integrated into applications with minimal work and maximum compatibility.
 </div>
@@ -153,7 +157,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/github3apps.py">github3apps.py</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" /></div>
+  </div>
 <div>
   This library is a wrapper around the <a href="https://github.com/sigmavirus24/github3.py">github3.py</a> library, giving it the ability to build GitHub Applications.
 </div>
@@ -165,7 +170,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedious/Fetch">Fetch</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" /></div>
+  </div>
 <div>
   This library wraps the native PHP IMAP libraries around a modern object orientated interface.
 </div>
@@ -196,7 +202,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/jsonsmash">JSONSmash</a></h3>
-  </div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.svg" /></div></div>
 <div>
   A node cli shell that lets users browse large json objects like they would a filesystem.
 </div>
@@ -205,7 +211,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/secretcli">SecretCLI</a></h3>
-  </div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.svg" /></div></div>
 <div>
   A simple CLI tool that makes reading and writing to the <a href="https://aws.amazon.com/secrets-manager/">AWS Secrets Manager</a> super easy.
 </div>
@@ -217,7 +223,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/URLParser">URLParser</a></h3>
-  </div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.svg" /></div></div>
 <div>
   Another really simple tool, the URLParser takes in various URIs and returns back the piece you're looking for; such as the scheme, domain, or port.
 </div>
@@ -238,6 +244,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/puppet-psad">psad</a></h3>
+  <div align="center"><img src="https://projects.tedivm.com/assets/images/projects/puppet.png" /></div>
   </div>
 <div>
   This module controls the Port Scan Active Defense program, providing active response to block port scans.
@@ -247,6 +254,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/puppet-rsnapshot">rsnapshot</a></h3>
+  <div align="center"><img src="https://projects.tedivm.com/assets/images/projects/puppet.png" /></div>
   </div>
 <div>
   This advanced rsnapshot module makes backing up servers trivial. SSH keys and accounts are created, as are wrapper scripts around sudo to prevent opening the root account to ssh.
@@ -256,6 +264,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/puppet-ghebackups">ghebackups</a></h3>
+  <div align="center"><img src="https://projects.tedivm.com/assets/images/projects/puppet.png" /></div>
   </div>
 <div>
   This module turns a server into a Github Enterprise backup server. It creates the relevant accounts, adds cronjobs, and manages ssh options to ensure that backups occur.
@@ -268,6 +277,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/puppet-hieratic">hieratic</a></h3>
+  <div align="center"><img src="https://projects.tedivm.com/assets/images/projects/puppet.png" /></div>
   </div>
 <div>
   This module makes all of the native datatypes present in Puppet accessible directly using Hiera in order to make testing and prototyping faster.
@@ -277,6 +287,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/puppet-inspircd">inspiricd</a></h3>
+  <div align="center"><img src="https://projects.tedivm.com/assets/images/projects/puppet.png" /></div>
   </div>
 <div>
   This module allows IRC networks and servers to be defined using inspircd.
@@ -286,6 +297,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/puppet-iscsi">iscsi</a></h3>
+  <div align="center"><img src="https://projects.tedivm.com/assets/images/projects/puppet.png" /></div>
   </div>
 <div>
   This module makes it possible to define iscsi connections in Puppet. This makes it easier to work with AWS Storage Gateways and other iscsi devices.
@@ -304,7 +316,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/tedivms-flask">tedivms-flask</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.svg" /></div>
+  </div>
 <div>
   This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
 </div>
@@ -313,7 +326,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/jekyll-theme-portfolio">Jekyll Portfolio</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.svg" /></div>
+  </div>
 <div>
   The theme behind this very portfolio is available for you to use to build your own portfolio site with Jekyll and Github Pages.
 </div>
@@ -322,7 +336,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/slack_proxy">Slack Proxy</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/slack.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/slack.svg" /></div>
+  </div>
 <div>
   This simple to deploy application allows developers to send notifications to slack without having to manage webhooks directly themselves.
 </div>
@@ -334,7 +349,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/radaisystems/nlm-scrubber-docker">NLM Scrubber Assist</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/file-medical-alt.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/file-medical-alt.svg" /></div>
+  </div>
 <div>
   The <a href="https://scrubber.nlm.nih.gov/">NLM Scrubber</a> is a package released by the National Library of Medicine to remove PHI from medical documents. This project wraps that in a docker container and provides python and bash libraries.
 </div>
@@ -343,7 +359,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/HeadedHome">HeadedHome</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/aws.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/aws.svg" /></div>
+  </div>
 <div>
   Using an IOT Button as a trigger, this Lambda function estimates my time of getting home from work based off of current public transit times and sends a text to both myself and my partner with that ETA.
 </div>
@@ -352,7 +369,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/tedivm/syntaxhighlighter_yaml">syntaxhighlighter_yaml</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/wordpress.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/wordpress.svg" /></div>
+  </div>
 <div>
   This Wordpress Plugin adds YAML Syntax Highlighting.
 </div>
@@ -403,7 +421,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/screepers/python-screeps">python-screeps</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.svg" /></div>
+  </div>
 <div>
   This library was the first third party library for the Screeps API and has been responsible for spawning a large third party ecosystem.
 </div>
@@ -412,7 +431,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td valign="top">
 <div>
   <h3 align="center"><a href="https://github.com/screepers/screeps_console">screeps_console</a></h3>
-  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.svg" /></div></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.svg" /></div>
+  </div>
 <div>
   This ncurses based terminal application provides a standalone console for the Screeps world.
 </div>
