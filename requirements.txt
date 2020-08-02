@@ -1,0 +1,4 @@
+click
+pyyaml
+Jinja2
+requests
