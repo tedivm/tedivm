@@ -50,7 +50,7 @@ class PortfolioBuilder:
         for project in category['projects']:
             element += 1
             if element == 1:
-                header_row = "<tr>\n\n"
+                header_row = "<thead><tr>\n\n"
                 description_row = "<tr>\n\n"
                 nav_row = "<tr>\n\n"
 
@@ -70,7 +70,7 @@ class PortfolioBuilder:
 
 
             if element == self.columns:
-                header_row += "</tr>\n"
+                header_row += "</tr></thead>\n"
                 description_row += "</tr>\n"
                 nav_row += "</tr>\n"
                 output += "<table>" + header_row + description_row + nav_row + "</table>"

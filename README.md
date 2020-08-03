@@ -1,7 +1,7 @@
 
 
 ## Applications
-<table><tr>
+<table><thead><tr>
 
 <th valign="top">
 Nebula
@@ -15,7 +15,7 @@ GitConsensus
 GithubOrganizer
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -107,7 +107,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 </td>
 
 </tr>
-</table><table><tr>
+</table><table><thead><tr>
 
 <th valign="top">
 BadThings Slack Bot
@@ -121,7 +121,7 @@ League of Automated Nations
 GitStars
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -215,7 +215,7 @@ GitStars
 </table>
 
 ## Digital Art
-<table><tr>
+<table><thead><tr>
 
 <th valign="top">
 Game of Life
@@ -229,7 +229,7 @@ Formations
 Good Guy Warren
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -323,7 +323,7 @@ Good Guy Warren
 </table>
 
 ## Libraries
-<table><tr>
+<table><thead><tr>
 
 <th valign="top">
 Stash
@@ -337,7 +337,7 @@ JShrink
 github3apps.py
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -431,7 +431,7 @@ github3apps.py
 </table>
 
 ## CLIs
-<table><tr>
+<table><thead><tr>
 
 <th valign="top">
 GitConsensus CLI
@@ -445,7 +445,7 @@ JSONSmash
 SecretCLI
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -537,7 +537,7 @@ SecretCLI
 </table>
 
 ## Puppet
-<table><tr>
+<table><thead><tr>
 
 <th valign="top">
 psad
@@ -551,7 +551,7 @@ rsnapshot
 ghebackups
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -642,7 +642,7 @@ ghebackups
 </td>
 
 </tr>
-</table><table><tr>
+</table><table><thead><tr>
 
 <th valign="top">
 hieratic
@@ -656,7 +656,7 @@ inspiricd
 iscsi
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -750,7 +750,7 @@ iscsi
 </table>
 
 ## Misc
-<table><tr>
+<table><thead><tr>
 
 <th valign="top">
 tedivms-flask
@@ -764,7 +764,7 @@ Jekyll Portfolio
 Slack Proxy
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -855,7 +855,7 @@ Slack Proxy
 </td>
 
 </tr>
-</table><table><tr>
+</table><table><thead><tr>
 
 <th valign="top">
 NLM Scrubber Assist
@@ -869,7 +869,7 @@ HeadedHome
 syntaxhighlighter_yaml
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -964,7 +964,7 @@ syntaxhighlighter_yaml
 
 ## Screeps
 <a href="https://screeps.com/" class="alert-link">Screeps</a> is an an open-source sandbox MMO RTS game for programmers, wherein the core mechanic is programming your units' AI.
-<table><tr>
+<table><thead><tr>
 
 <th valign="top">
 Quorum
@@ -978,7 +978,7 @@ ScreepsAutoSpawner
 ScreepsDashboard
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -1069,7 +1069,7 @@ ScreepsDashboard
 </td>
 
 </tr>
-</table><table><tr>
+</table><table><thead><tr>
 
 <th valign="top">
 python-screeps
@@ -1083,7 +1083,7 @@ screeps_console
 screeps_notify
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
@@ -1174,7 +1174,7 @@ screeps_notify
 </td>
 
 </tr>
-</table><table><tr>
+</table><table><thead><tr>
 
 <th valign="top">
 screeps-stats
@@ -1188,7 +1188,7 @@ Spawn1
 screepsmod-konami
 </th>
 
-</tr>
+</tr></thead>
 <tr>
 
 <td valign="top">
