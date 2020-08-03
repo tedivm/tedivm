@@ -19,12 +19,11 @@ def get_template(name):
 
 
 
-
 class PortfolioBuilder:
 
     def __init__(self, data):
         self.data = data
-        self.columns = 3
+        self.columns = 4
         self.project_template = get_template('project')
         self.projectnav_template = get_template('projectnav')
         self.category_template = get_template('category')
@@ -59,7 +58,6 @@ class PortfolioBuilder:
             header_row += project['name'] + "\n"
             header_row += "</th>\n\n"
 
-
             description_row += "<td valign=\"top\">\n"
             description_row += self.get_project_description(category, project) + "\n"
             description_row += "</td>\n\n"
@@ -77,13 +75,34 @@ class PortfolioBuilder:
                 element = 0
 
 
-        # if element > 0:
-        #     while element < self.columns:
-        #         element += 1
-        #         output += "<td> </td>\n"
-        #         if element == self.columns:
-        #             output += "</tr>\n\n"
-        # output += "</table>\n"
+        if element > 0:
+            header_row += "</tr></thead>\n"
+            description_row += "</tr>\n"
+            nav_row += "</tr>\n"
+            output += "<table>" + header_row + description_row + nav_row + "</table>"
+            element = 0
+
+
+
+        if element > 0:
+            while element < self.columns:
+                element += 1
+
+                header_row = "<th>&nbsp;</th>"
+                description_row = "<tr>&nbsp;</tr>"
+                nav_row = "<tr>&nbsp;</tr>"
+
+                if element == self.columns:
+                    header_row += "</tr></thead>\n"
+                    description_row += "</tr>\n"
+                    nav_row += "</tr>\n"
+                    output += "<table>" + header_row + description_row + nav_row + "</table>"
+                    element = 0
+
+
+
+
+
 
         return output
 

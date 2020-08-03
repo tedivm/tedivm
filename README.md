@@ -15,6 +15,10 @@ GitConsensus
 GithubOrganizer
 </th>
 
+<th valign="top">
+BadThings Slack Bot
+</th>
+
 </tr></thead>
 <tr>
 
@@ -43,6 +47,15 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
   </div>
 <div>
   GithubOrganizer applies settings to teams, repositories, and issues- automatically protecting branches, applying labels, and assigning issues to projects.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/badthings.jpg" /></div>
+  </div>
+<div>
+  The <a href="https://twitter.com/badthingsdaily">Bad Things Daily Twitter</a> account provides scenarios for tabletop disaster planning. This application sends random scenarios right to Slack.
 </div>
 </td>
 
@@ -106,12 +119,27 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 </div>
 </td>
 
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://badthings.tedivm.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="BadThings Slack Bot Homepage"></a></td>
+
+<td><a href="https://github.com/tedivm/BadThingsDailyBot"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="BadThings Slack Bot on Github"></a></td>
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
 </tr>
 </table><table><thead><tr>
-
-<th valign="top">
-BadThings Slack Bot
-</th>
 
 <th valign="top">
 League of Automated Nations
@@ -121,17 +149,12 @@ League of Automated Nations
 GitStars
 </th>
 
+<th valign="top">
+ec2details
+</th>
+
 </tr></thead>
 <tr>
-
-<td valign="top">
-<div>
-  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/badthings.jpg" /></div>
-  </div>
-<div>
-  The <a href="https://twitter.com/badthingsdaily">Bad Things Daily Twitter</a> account provides scenarios for tabletop disaster planning. This application sends random scenarios right to Slack.
-</div>
-</td>
 
 <td valign="top">
 <div>
@@ -151,27 +174,18 @@ GitStars
 </div>
 </td>
 
-</tr>
-<tr>
-
 <td valign="top">
-<div align="center">
-<table>
-<tr>
-<td><a href="https://badthings.tedivm.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="BadThings Slack Bot Homepage"></a></td>
-
-<td><a href="https://github.com/tedivm/BadThingsDailyBot"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="BadThings Slack Bot on Github"></a></td>
-
-
-
-
-
-
-
-</tr>
-</table>
+<div>
+  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/aws.svg" /></div>
+  </div>
+<div>
+  This service provides an API with metadata (including pricing) for every AWS EC2 instance type.
+It processes the AWS Bulk API to multiple times a day to always provide the most up to date information.
 </div>
 </td>
+
+</tr>
+<tr>
 
 <td valign="top">
 <div align="center">
@@ -199,6 +213,25 @@ GitStars
 <td><a href="https://stars.gitconsensus.com"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="GitStars Homepage"></a></td>
 
 <td><a href="https://github.com/tedivm/gitstars"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="GitStars on Github"></a></td>
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://tedivm.github.io/ec2details/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="ec2details Homepage"></a></td>
+
+<td><a href="https://github.com/tedivm/ec2details"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="ec2details on Github"></a></td>
 
 
 
@@ -337,6 +370,10 @@ JShrink
 github3apps.py
 </th>
 
+<th valign="top">
+Fetch
+</th>
+
 </tr></thead>
 <tr>
 
@@ -364,6 +401,15 @@ github3apps.py
   </div>
 <div>
   This library is a wrapper around the <a href="https://github.com/sigmavirus24/github3.py">github3.py</a> library, giving it the ability to build GitHub Applications.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" /></div>
+  </div>
+<div>
+  This library wraps the native PHP IMAP libraries around a modern object orientated interface.
 </div>
 </td>
 
@@ -427,6 +473,25 @@ github3apps.py
 </div>
 </td>
 
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+
+
+<td><a href="https://github.com/tedious/Fetch"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="Fetch on Github"></a></td>
+
+
+
+
+<td><a href="https://packagist.org/packages/tedivm/fetch"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" title="Fetch on Packagist"></a></td>
+
+
+</tr>
+</table>
+</div>
+</td>
+
 </tr>
 </table>
 
@@ -443,6 +508,10 @@ JSONSmash
 
 <th valign="top">
 SecretCLI
+</th>
+
+<th valign="top">
+URLParser
 </th>
 
 </tr></thead>
@@ -470,6 +539,14 @@ SecretCLI
   <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.svg" /></div></div>
 <div>
   A simple CLI tool that makes reading and writing to the <a href="https://aws.amazon.com/secrets-manager/">AWS Secrets Manager</a> super easy.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.svg" /></div></div>
+<div>
+  Another really simple tool, the URLParser takes in various URIs and returns back the piece you're looking for; such as the scheme, domain, or port.
 </div>
 </td>
 
@@ -533,6 +610,25 @@ SecretCLI
 </div>
 </td>
 
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+
+
+<td><a href="https://github.com/tedivm/URLParser"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="URLParser on Github"></a></td>
+
+
+
+<td><a href="https://pypi.org/project/urlparser/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.svg" title="URLParser on PyPI"></a></td>
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
 </tr>
 </table>
 
@@ -549,6 +645,10 @@ rsnapshot
 
 <th valign="top">
 ghebackups
+</th>
+
+<th valign="top">
+hieratic
 </th>
 
 </tr></thead>
@@ -578,6 +678,15 @@ ghebackups
   </div>
 <div>
   This module turns a server into a Github Enterprise backup server. It creates the relevant accounts, adds cronjobs, and manages ssh options to ensure that backups occur.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/puppet.png" /></div>
+  </div>
+<div>
+  This module makes all of the native datatypes present in Puppet accessible directly using Hiera in order to make testing and prototyping faster.
 </div>
 </td>
 
@@ -641,12 +750,27 @@ ghebackups
 </div>
 </td>
 
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+
+
+<td><a href="https://github.com/tedivm/puppet-hieratic"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="hieratic on Github"></a></td>
+
+<td><a href="https://forge.puppet.com/tedivm/hieratic"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.svg" title="hieratic on Puppet Forge"></a></td>
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
 </tr>
 </table><table><thead><tr>
-
-<th valign="top">
-hieratic
-</th>
 
 <th valign="top">
 inspiricd
@@ -658,15 +782,6 @@ iscsi
 
 </tr></thead>
 <tr>
-
-<td valign="top">
-<div>
-  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/puppet.png" /></div>
-  </div>
-<div>
-  This module makes all of the native datatypes present in Puppet accessible directly using Hiera in order to make testing and prototyping faster.
-</div>
-</td>
 
 <td valign="top">
 <div>
@@ -688,25 +803,6 @@ iscsi
 
 </tr>
 <tr>
-
-<td valign="top">
-<div align="center">
-<table>
-<tr>
-
-
-<td><a href="https://github.com/tedivm/puppet-hieratic"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="hieratic on Github"></a></td>
-
-<td><a href="https://forge.puppet.com/tedivm/hieratic"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.svg" title="hieratic on Puppet Forge"></a></td>
-
-
-
-
-
-</tr>
-</table>
-</div>
-</td>
 
 <td valign="top">
 <div align="center">
@@ -764,6 +860,10 @@ Jekyll Portfolio
 Slack Proxy
 </th>
 
+<th valign="top">
+NLM Scrubber Assist
+</th>
+
 </tr></thead>
 <tr>
 
@@ -791,6 +891,15 @@ Slack Proxy
   </div>
 <div>
   This simple to deploy application allows developers to send notifications to slack without having to manage webhooks directly themselves.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/file-medical-alt.svg" /></div>
+  </div>
+<div>
+  The <a href="https://scrubber.nlm.nih.gov/">NLM Scrubber</a> is a package released by the National Library of Medicine to remove PHI from medical documents. This project wraps that in a docker container and provides python and bash libraries.
 </div>
 </td>
 
@@ -854,12 +963,27 @@ Slack Proxy
 </div>
 </td>
 
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+
+
+<td><a href="https://github.com/radaisystems/nlm-scrubber-docker"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="NLM Scrubber Assist on Github"></a></td>
+<td><a href="https://hub.docker.com/r/radaisystems/nlm-scrubber"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/docker.svg" title="NLM Scrubber Assist on Docker Hub"></a></td>
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
 </tr>
 </table><table><thead><tr>
-
-<th valign="top">
-NLM Scrubber Assist
-</th>
 
 <th valign="top">
 HeadedHome
@@ -871,15 +995,6 @@ syntaxhighlighter_yaml
 
 </tr></thead>
 <tr>
-
-<td valign="top">
-<div>
-  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/file-medical-alt.svg" /></div>
-  </div>
-<div>
-  The <a href="https://scrubber.nlm.nih.gov/">NLM Scrubber</a> is a package released by the National Library of Medicine to remove PHI from medical documents. This project wraps that in a docker container and provides python and bash libraries.
-</div>
-</td>
 
 <td valign="top">
 <div>
@@ -901,25 +1016,6 @@ syntaxhighlighter_yaml
 
 </tr>
 <tr>
-
-<td valign="top">
-<div align="center">
-<table>
-<tr>
-
-
-<td><a href="https://github.com/radaisystems/nlm-scrubber-docker"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="NLM Scrubber Assist on Github"></a></td>
-<td><a href="https://hub.docker.com/r/radaisystems/nlm-scrubber"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/docker.svg" title="NLM Scrubber Assist on Docker Hub"></a></td>
-
-
-
-
-
-
-</tr>
-</table>
-</div>
-</td>
 
 <td valign="top">
 <div align="center">
@@ -978,6 +1074,10 @@ ScreepsAutoSpawner
 ScreepsDashboard
 </th>
 
+<th valign="top">
+python-screeps
+</th>
+
 </tr></thead>
 <tr>
 
@@ -1005,6 +1105,15 @@ ScreepsDashboard
   </div>
 <div>
   This dashboard was created for the Quorum project and lets the public view all of the otherwise hidden Screeps player information. This application exposed wallet, memory, segment, and console data (which gets stored in ElasticSearch to allow querying of historic data).
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.svg" /></div>
+  </div>
+<div>
+  This library was the first third party library for the Screeps API and has been responsible for spawning a large third party ecosystem.
 </div>
 </td>
 
@@ -1068,12 +1177,27 @@ ScreepsDashboard
 </div>
 </td>
 
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+
+
+<td><a href="https://github.com/screepers/python-screeps"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="python-screeps on Github"></a></td>
+
+
+
+<td><a href="https://pypi.org/project/screepsapi/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.svg" title="python-screeps on PyPI"></a></td>
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
 </tr>
 </table><table><thead><tr>
-
-<th valign="top">
-python-screeps
-</th>
 
 <th valign="top">
 screeps_console
@@ -1083,17 +1207,16 @@ screeps_console
 screeps_notify
 </th>
 
+<th valign="top">
+screeps-stats
+</th>
+
+<th valign="top">
+Spawn1
+</th>
+
 </tr></thead>
 <tr>
-
-<td valign="top">
-<div>
-  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.svg" /></div>
-  </div>
-<div>
-  This library was the first third party library for the Screeps API and has been responsible for spawning a large third party ecosystem.
-</div>
-</td>
 
 <td valign="top">
 <div>
@@ -1113,27 +1236,26 @@ screeps_notify
 </div>
 </td>
 
-</tr>
-<tr>
-
 <td valign="top">
-<div align="center">
-<table>
-<tr>
-
-
-<td><a href="https://github.com/screepers/python-screeps"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="python-screeps on Github"></a></td>
-
-
-
-<td><a href="https://pypi.org/project/screepsapi/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.svg" title="python-screeps on PyPI"></a></td>
-
-
-
-</tr>
-</table>
+<div>
+  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/screepers.gif" /></div>
+  </div>
+<div>
+  Using a reverse engineered API this project takes data saved inside the game “Screeps”, transforms it and injects it into elasticsearch.
 </div>
 </td>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/nativescript.png" /></div>
+  </div>
+<div>
+  This is a mobile client for the Screeps game built using NativeScript. It has a built in messenger, profiles of different alliances, a websocket based console for interacting with the system, and other informational pages such as the wallet and market order pages.
+</div>
+</td>
+
+</tr>
+<tr>
 
 <td valign="top">
 <div align="center">
@@ -1173,54 +1295,6 @@ screeps_notify
 </div>
 </td>
 
-</tr>
-</table><table><thead><tr>
-
-<th valign="top">
-screeps-stats
-</th>
-
-<th valign="top">
-Spawn1
-</th>
-
-<th valign="top">
-screepsmod-konami
-</th>
-
-</tr></thead>
-<tr>
-
-<td valign="top">
-<div>
-  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/screepers.gif" /></div>
-  </div>
-<div>
-  Using a reverse engineered API this project takes data saved inside the game “Screeps”, transforms it and injects it into elasticsearch.
-</div>
-</td>
-
-<td valign="top">
-<div>
-  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/nativescript.png" /></div>
-  </div>
-<div>
-  This is a mobile client for the Screeps game built using NativeScript. It has a built in messenger, profiles of different alliances, a websocket based console for interacting with the system, and other informational pages such as the wallet and market order pages.
-</div>
-</td>
-
-<td valign="top">
-<div>
-  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/screepsmods.png" /></div>
-  </div>
-<div>
-  Konami is a Screeps Server mod that changes the world settings to allow AI to grow significantly faster. This makes development easier as longer term issues will show up in smaller amounts of time.
-</div>
-</td>
-
-</tr>
-<tr>
-
 <td valign="top">
 <div align="center">
 <table>
@@ -1259,6 +1333,41 @@ screepsmod-konami
 </div>
 </td>
 
+</tr>
+</table><table><thead><tr>
+
+<th valign="top">
+screepsmod-konami
+</th>
+
+<th valign="top">
+screeps-backup
+</th>
+
+</tr></thead>
+<tr>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/screepsmods.png" /></div>
+  </div>
+<div>
+  Konami is a Screeps Server mod that changes the world settings to allow AI to grow significantly faster. This makes development easier as longer term issues will show up in smaller amounts of time.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/screepers.gif" /></div>
+  </div>
+<div>
+  This tool takes a backup of an existing account's memory and segments and provides the ability to restore from those backups.
+</div>
+</td>
+
+</tr>
+<tr>
+
 <td valign="top">
 <div align="center">
 <table>
@@ -1269,6 +1378,25 @@ screepsmod-konami
 
 
 <td><a href="https://www.npmjs.com/package/screepsmod-konami"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/npm.svg" title="screepsmod-konami on the NPM Registry"></a></td>
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+
+
+<td><a href="https://github.com/screepers/screeps-backup"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="screeps-backup on Github"></a></td>
+
+
+
 
 
 
