@@ -860,7 +860,8 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 </table>
 
 
-## Screeps<a href="https://screeps.com/" class="alert-link">Screeps</a> is an an open-source sandbox MMO RTS game for programmers, wherein the core mechanic is programming your units' AI.
+## Screeps
+<a href="https://screeps.com/" class="alert-link">Screeps</a> is an an open-source sandbox MMO RTS game for programmers, wherein the core mechanic is programming your units' AI.
 <table>
 
 <tr>
