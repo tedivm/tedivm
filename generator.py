@@ -23,7 +23,7 @@ class PortfolioBuilder:
 
     def __init__(self, data):
         self.data = data
-        self.columns = 4
+        self.columns = 2
         self.project_template = get_template('project')
         self.projectnav_template = get_template('projectnav')
         self.category_template = get_template('category')
