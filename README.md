@@ -14,7 +14,7 @@
   Nebula provides a simplified dashboard that allows researchers to launch and manage their own servers on AWS.
 It also provides SSH Key management, scheduled shutdowns, group controls, and a variety of other features.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -40,7 +40,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 <div>
   GitConsensus makes it possible to automate project governance on GitHub by using “reactions” as a voting mechanism to automatically merge (or close) pull requests.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://www.gitconsensus.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="GitConsensus Homepage"></a></td>
@@ -66,7 +66,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 <div>
   GithubOrganizer applies settings to teams, repositories, and issues- automatically protecting branches, applying labels, and assigning issues to projects.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://organizer.gitconsensus.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="GithubOrganizer Homepage"></a></td>
@@ -95,7 +95,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 <div>
   The <a href="https://twitter.com/badthingsdaily">Bad Things Daily Twitter</a> account provides scenarios for tabletop disaster planning. This application sends random scenarios right to Slack.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://badthings.tedivm.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="BadThings Slack Bot Homepage"></a></td>
@@ -121,7 +121,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 <div>
   This web application is an alliance tracker for a programming game called Screeps. It maintains rankings as well as an interactive map showing which rooms are claimed by different players and alliances.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://www.leagueofautomatednations.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="League of Automated Nations Homepage"></a></td>
@@ -147,7 +147,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 <div>
   A Github API aimed at Front End use. This API uses extensive caching and authenticated APIs to work around Github API Ratelimiting. It drives the <a href="https://gitbuttons.tedivm.com">Github Star Badges</a> on this very site.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://stars.gitconsensus.com"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="GitStars Homepage"></a></td>
@@ -177,7 +177,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
   This service provides an API with metadata (including pricing) for every AWS EC2 instance type.
 It processes the AWS Bulk API to multiple times a day to always provide the most up to date information.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://tedivm.github.io/ec2details/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="ec2details Homepage"></a></td>
@@ -215,7 +215,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   A Game of Life implimentation with additional rules and varients that add colors, written in javascript using canvas.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://life.tedivm.com"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Game of Life Homepage"></a></td>
@@ -241,7 +241,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   An experiment in digital movement.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://formations.tedivm.com"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Formations Homepage"></a></td>
@@ -267,7 +267,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   An Elizabeth Warren Meme Collection. Memes are built using JS Canvas.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 <td><a href="https://www.goodguywarren.com"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Good Guy Warren Homepage"></a></td>
@@ -302,7 +302,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This caching library supports multiple backends with a consistent frontend. It supports hierarchical keys, stampede and dogpile protection, automatic miss distribution, and more.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -328,7 +328,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This library minifies javascript using 100% pure PHP, allowing it to be integrated into applications with minimal work and maximum compatibility.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -354,7 +354,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This library is a wrapper around the <a href="https://github.com/sigmavirus24/github3.py">github3.py</a> library, giving it the ability to build GitHub Applications.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -383,7 +383,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This library wraps the native PHP IMAP libraries around a modern object orientated interface.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -421,7 +421,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   A standalone python application and library for managing Github PRs using Reactions as a voting mechanism.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -446,7 +446,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   A node cli shell that lets users browse large json objects like they would a filesystem.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -471,7 +471,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   A simple CLI tool that makes reading and writing to the <a href="https://aws.amazon.com/secrets-manager/">AWS Secrets Manager</a> super easy.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -499,7 +499,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   Another really simple tool, the URLParser takes in various URIs and returns back the piece you're looking for; such as the scheme, domain, or port.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -537,7 +537,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This module controls the Port Scan Active Defense program, providing active response to block port scans.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -563,7 +563,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This advanced rsnapshot module makes backing up servers trivial. SSH keys and accounts are created, as are wrapper scripts around sudo to prevent opening the root account to ssh.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -589,7 +589,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This module turns a server into a Github Enterprise backup server. It creates the relevant accounts, adds cronjobs, and manages ssh options to ensure that backups occur.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -618,7 +618,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This module makes all of the native datatypes present in Puppet accessible directly using Hiera in order to make testing and prototyping faster.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -644,7 +644,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This module allows IRC networks and servers to be defined using inspircd.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -670,7 +670,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This module makes it possible to define iscsi connections in Puppet. This makes it easier to work with AWS Storage Gateways and other iscsi devices.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -705,7 +705,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -731,7 +731,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   The theme behind this very portfolio is available for you to use to build your own portfolio site with Jekyll and Github Pages.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -757,7 +757,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This simple to deploy application allows developers to send notifications to slack without having to manage webhooks directly themselves.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -786,7 +786,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   The <a href="https://scrubber.nlm.nih.gov/">NLM Scrubber</a> is a package released by the National Library of Medicine to remove PHI from medical documents. This project wraps that in a docker container and provides python and bash libraries.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -812,7 +812,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   Using an IOT Button as a trigger, this Lambda function estimates my time of getting home from work based off of current public transit times and sends a text to both myself and my partner with that ETA.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -838,7 +838,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This Wordpress Plugin adds YAML Syntax Highlighting.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -873,7 +873,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   The Quorum project is an experiment that uses Screeps, GitConsensus, and the ScreepsAutoSpawner to see what happens when the community has to vote to accept new pull requests- and any vote that passes gets pulled. It initially started as being written primarily by me and overtime has gotten more community involvement.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -899,7 +899,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This program checks the Screeps world to see if the player is still alive, and if not it automatically respawns them into the world. This requires scanning the world to find appropriate locations, scoring them, and then placing the first spawn automatically in the selected room.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -925,7 +925,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This dashboard was created for the Quorum project and lets the public view all of the otherwise hidden Screeps player information. This application exposed wallet, memory, segment, and console data (which gets stored in ElasticSearch to allow querying of historic data).
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -954,7 +954,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This library was the first third party library for the Screeps API and has been responsible for spawning a large third party ecosystem.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -980,7 +980,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This ncurses based terminal application provides a standalone console for the Screeps world.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -1006,7 +1006,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This bridges the Screeps world with the real world by allowing users to send notifications programmatically from in game to a number of providers, including Text Messages and Slack Notifications.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -1035,7 +1035,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   Using a reverse engineered API this project takes data saved inside the game “Screeps”, transforms it and injects it into elasticsearch.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -1061,7 +1061,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This is a mobile client for the Screeps game built using NativeScript. It has a built in messenger, profiles of different alliances, a websocket based console for interacting with the system, and other informational pages such as the wallet and market order pages.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -1087,7 +1087,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   Konami is a Screeps Server mod that changes the world settings to allow AI to grow significantly faster. This makes development easier as longer term issues will show up in smaller amounts of time.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 
@@ -1116,7 +1116,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <div>
   This tool takes a backup of an existing account's memory and segments and provides the ability to restore from those backups.
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 

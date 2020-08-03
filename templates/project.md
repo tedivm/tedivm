@@ -13,7 +13,7 @@
 <div>
   {{ project.description }}
 </div>
-<div>
+<div align="center">
 <table>
 <tr>
 {% if project.homepage %}<td><a href="{{ project.homepage }}"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="{{ project.name }} Homepage"></a></td>{% endif %}
