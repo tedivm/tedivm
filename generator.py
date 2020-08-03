@@ -8,6 +8,11 @@ def get_project_data():
     return yaml.safe_load(r.text)
 
 
+def get_avert_data():
+    with open("adverts.yaml") as fp:
+        return yaml.safe_load(fp.read())
+
+
 def pretty_print(data):
     print(yaml.dump(data, sort_keys=False))
 
@@ -28,6 +33,8 @@ class PortfolioBuilder:
         self.projectnav_template = get_template('projectnav')
         self.category_template = get_template('category')
         self.readme_template = get_template('readme')
+        self.adverts = get_avert_data()
+        self.adverts_index = 0
 
 
     def get_project_description(self, category, project):
@@ -53,7 +60,6 @@ class PortfolioBuilder:
                 description_row = "<tr>\n\n"
                 nav_row = "<tr>\n\n"
 
-
             header_row += "<th valign=\"top\">\n"
             header_row += project['name'] + "\n"
             header_row += "</th>\n\n"
@@ -73,14 +79,14 @@ class PortfolioBuilder:
                 nav_row += "</tr>\n"
                 output += "<table>" + header_row + description_row + nav_row + "</table>"
                 element = 0
-
-
-        if element > 0:
-            header_row += "</tr></thead>\n"
-            description_row += "</tr>\n"
-            nav_row += "</tr>\n"
-            output += "<table>" + header_row + description_row + nav_row + "</table>"
-            element = 0
+        #
+        #
+        # if element > 0:
+        #     header_row += "</tr></thead>\n"
+        #     description_row += "</tr>\n"
+        #     nav_row += "</tr>\n"
+        #     output += "<table>" + header_row + description_row + nav_row + "</table>"
+        #     element = 0
 
 
 
@@ -88,49 +94,33 @@ class PortfolioBuilder:
             while element < self.columns:
                 element += 1
 
-                header_row = "<th>&nbsp;</th>"
-                description_row = "<tr>&nbsp;</tr>"
-                nav_row = "<tr>&nbsp;</tr>"
+                advert = self.get_advert_project()
+
+                header_row += "<th valign=\"top\">\n"
+                header_row += "❤️" + advert['name'] + "❤️\n"
+                header_row += "</th>\n\n"
+
+                description_row += "<td valign=\"top\">\n"
+                description_row += self.get_project_description(category, advert) + "\n"
+                description_row += "</td>\n\n"
+
+                nav_row += "<td valign=\"top\">\n"
+                nav_row += self.get_project_navigation(category, advert) + "\n"
+                nav_row += "</td>\n\n"
 
                 if element == self.columns:
                     header_row += "</tr></thead>\n"
                     description_row += "</tr>\n"
                     nav_row += "</tr>\n"
                     output += "<table>" + header_row + description_row + nav_row + "</table>"
-                    element = 0
-
-
-
-
-
 
         return output
 
 
-
-
-    def get_project_grid_legacy(self, category):
-        output = "<table>\n\n"
-        element = 0
-        for project in category['projects']:
-            element += 1
-            if element == 1:
-                output += "<tr>\n\n"
-            output += "<td valign=\"top\">\n"
-            output += self.get_project_description(category, project) + "\n"
-            output += self.get_project_navigation(category, project) + "\n"
-            output += "</td>\n\n"
-            if element == self.columns:
-                output += "</tr>\n"
-                element = 0
-        if element > 0:
-            while element < self.columns:
-                element += 1
-                output += "<td> </td>\n"
-                if element == self.columns:
-                    output += "</tr>\n\n"
-        output += "</table>\n"
-        return output
+    def get_advert_project(self):
+        current_index = self.adverts_index % len(self.adverts)
+        self.adverts_index += 1
+        return self.adverts[current_index]
 
 
     def get_category(self, category):

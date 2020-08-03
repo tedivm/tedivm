@@ -1,5 +1,7 @@
 
 
+Here's a selection of projects that I've either worked on or, if the project has a heart (❤️), projects that I think you should support.
+
 ## Applications
 <table><thead><tr>
 
@@ -218,6 +220,14 @@ GitStars
 ec2details
 </th>
 
+<th valign="top">
+❤️#NoTechForIce❤️
+</th>
+
+<th valign="top">
+❤️Black Lives Matter❤️
+</th>
+
 </tr></thead>
 <tr>
 
@@ -231,6 +241,24 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 </div>
 </td>
 
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://www.fairplanet.org/wp-content/uploads/2019/12/notech.1575300216.jpg" /></div>
+  </div>
+<div>
+  Tech companies are currently enabling ICE raids despite the national public health crisis. Tell tech execs to stop working for ICE immediately.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Black_Lives_Matter_logo.svg/440px-Black_Lives_Matter_logo.svg.png" /></div>
+  </div>
+<div>
+  The BLM mission is to eradicate white supremacy and build local power to intervene in violence inflicted on Black communities by the state and vigilantes.
+</div>
+</td>
+
 </tr>
 <tr>
 
@@ -241,6 +269,44 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 <td><a href="https://tedivm.github.io/ec2details/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="ec2details Homepage"></a></td>
 
 <td><a href="https://github.com/tedivm/ec2details"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="ec2details on Github"></a></td>
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://notechforice.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="#NoTechForIce Homepage"></a></td>
+
+
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://blacklivesmatter.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Black Lives Matter Homepage"></a></td>
+
+
 
 
 
@@ -476,6 +542,14 @@ github3apps.py
 Fetch
 </th>
 
+<th valign="top">
+❤️The Collab Lab❤️
+</th>
+
+<th valign="top">
+❤️EFF❤️
+</th>
+
 </tr></thead>
 <tr>
 
@@ -485,6 +559,24 @@ Fetch
   </div>
 <div>
   This library wraps the native PHP IMAP libraries around a modern object orientated interface.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://avatars1.githubusercontent.com/u/53383537?s=200&v=4" /></div>
+  </div>
+<div>
+  Gain practical experience by working remotely on real world projects with other early career developers.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/EFF_Logo.svg/2560px-EFF_Logo.svg.png" /></div>
+  </div>
+<div>
+  The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world.
 </div>
 </td>
 
@@ -503,6 +595,44 @@ Fetch
 
 
 <td><a href="https://packagist.org/packages/tedivm/fetch"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.svg" title="Fetch on Packagist"></a></td>
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://the-collab-lab.codes/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="The Collab Lab Homepage"></a></td>
+
+
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://www.eff.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="EFF Homepage"></a></td>
+
+
+
+
+
+
+
 
 
 </tr>
@@ -623,6 +753,14 @@ SecretCLI
 URLParser
 </th>
 
+<th valign="top">
+❤️Transgender Law Center❤️
+</th>
+
+<th valign="top">
+❤️Tech Workers Coalition❤️
+</th>
+
 </tr></thead>
 <tr>
 
@@ -631,6 +769,24 @@ URLParser
   <div align="center"><img width="160" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.svg" /></div></div>
 <div>
   Another really simple tool, the URLParser takes in various URIs and returns back the piece you're looking for; such as the scheme, domain, or port.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Transgender_Law_Center_logo.jpg" /></div>
+  </div>
+<div>
+  Transgender Law Center is the largest national trans-led organization advocating self-determination for all people.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://techworkerscoalition.org/assets/img/logo.svg" /></div>
+  </div>
+<div>
+  Guided by our vision for an inclusive & equitable tech industry, TWC organizes to build worker power through rank & file self-organization and education.
 </div>
 </td>
 
@@ -648,6 +804,44 @@ URLParser
 
 
 <td><a href="https://pypi.org/project/urlparser/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.svg" title="URLParser on PyPI"></a></td>
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://transgenderlawcenter.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Transgender Law Center Homepage"></a></td>
+
+
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://techworkerscoalition.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Tech Workers Coalition Homepage"></a></td>
+
+
+
+
+
+
 
 
 
@@ -1408,6 +1602,14 @@ screepsmod-konami
 screeps-backup
 </th>
 
+<th valign="top">
+❤️Github Drop ICE❤️
+</th>
+
+<th valign="top">
+❤️#NoTechForIce❤️
+</th>
+
 </tr></thead>
 <tr>
 
@@ -1417,6 +1619,24 @@ screeps-backup
   </div>
 <div>
   This tool takes a backup of an existing account's memory and segments and provides the ability to restore from those backups.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://avatars2.githubusercontent.com/u/58058809?s=400&u=98d5957de9ace30ae6db75da31767eabdf9f3f6a&v=4" /></div>
+  </div>
+<div>
+  Github helps rip children from their families, and that is awful.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://www.fairplanet.org/wp-content/uploads/2019/12/notech.1575300216.jpg" /></div>
+  </div>
+<div>
+  Tech companies are currently enabling ICE raids despite the national public health crisis. Tell tech execs to stop working for ICE immediately.
 </div>
 </td>
 
@@ -1430,6 +1650,44 @@ screeps-backup
 
 
 <td><a href="https://github.com/screepers/screeps-backup"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="screeps-backup on Github"></a></td>
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://github.com/drop-ice/dear-github-2.0"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Github Drop ICE Homepage"></a></td>
+
+
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://notechforice.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="#NoTechForIce Homepage"></a></td>
+
+
 
 
 
