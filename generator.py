@@ -26,15 +26,71 @@ class PortfolioBuilder:
         self.data = data
         self.columns = 3
         self.project_template = get_template('project')
+        self.projectnav_template = get_template('projectnav')
         self.category_template = get_template('category')
         self.readme_template = get_template('readme')
 
 
-    def get_project_element(self, category, project):
+    def get_project_description(self, category, project):
         return self.project_template.render(project=project, category=category)
 
 
+    def get_project_navigation(self, category, project):
+        return self.projectnav_template.render(project=project, category=category)
+
+
     def get_project_grid(self, category):
+        output = ""
+        element = 0
+
+        header_row = ""
+        description_row = ""
+        nav_row = ""
+
+        for project in category['projects']:
+            element += 1
+            if element == 1:
+                header_row = "<tr>\n\n"
+                description_row = "<tr>\n\n"
+                nav_row = "<tr>\n\n"
+
+
+            header_row += "<th valign=\"top\">\n"
+            header_row += project['name'] + "\n"
+            header_row += "</th>\n\n"
+
+
+            description_row += "<td valign=\"top\">\n"
+            description_row += self.get_project_description(category, project) + "\n"
+            description_row += "</td>\n\n"
+
+            nav_row += "<td valign=\"top\">\n"
+            nav_row += self.get_project_navigation(category, project) + "\n"
+            nav_row += "</td>\n\n"
+
+
+            if element == self.columns:
+                header_row += "</tr>\n"
+                description_row += "</tr>\n"
+                nav_row += "</tr>\n"
+                output += "<table>" + header_row + description_row + nav_row + "</table>"
+                element = 0
+
+
+        # if element > 0:
+        #     while element < self.columns:
+        #         element += 1
+        #         output += "<td> </td>\n"
+        #         if element == self.columns:
+        #             output += "</tr>\n\n"
+        # output += "</table>\n"
+
+        return output
+
+
+
+
+    def get_project_grid_legacy(self, category):
         output = "<table>\n\n"
         element = 0
         for project in category['projects']:
@@ -42,7 +98,8 @@ class PortfolioBuilder:
             if element == 1:
                 output += "<tr>\n\n"
             output += "<td valign=\"top\">\n"
-            output += self.get_project_element(category, project) + "\n"
+            output += self.get_project_description(category, project) + "\n"
+            output += self.get_project_navigation(category, project) + "\n"
             output += "</td>\n\n"
             if element == self.columns:
                 output += "</tr>\n"
