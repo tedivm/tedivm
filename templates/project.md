@@ -1,13 +1,13 @@
 <div>
   <h3 align="center"><a href="https://github.com/{{ project.github }}">{{ project.name }}</a></h3>
   {% if project.image -%}  
-  <div height="120" align="center"><img height src="https://projects.tedivm.com/assets/images/projects/{{ project.image }}" /></div>
+  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/{{ project.image }}" /></div>
   {% elif project.icon -%}  
-  <div height="120" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/{{ project.icon|replace('fab fa-', '')|replace('fas fa-', '') }}.svg" /></div>
+  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/{{ project.icon|replace('fab fa-', '')|replace('fas fa-', '') }}.svg" /></div>
   {% elif category.image -%}  
-  <div height="120" align="center"><img src="https://projects.tedivm.com/assets/images/projects/{{ category.image }}" /></div>
+  <div width="220" align="center"><img src="https://projects.tedivm.com/assets/images/projects/{{ category.image }}" /></div>
   {% elif category.icon -%}  
-  <div height="120" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/{{ category.icon|replace('fab fa-', '')|replace('fas fa-', '') }}.svg" /></div>
+  <div width="220" align="center"><img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/{{ category.icon|replace('fab fa-', '')|replace('fas fa-', '') }}.svg" /></div>
   {%- endif -%}  
 </div>
 <div>
