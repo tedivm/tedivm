@@ -322,6 +322,220 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 </tr>
 </table>
 
+## Multi-Py
+<a href="https://github.com/multi-py">Multi-Py</a> is a collection of python images with amd64, arm64, and arm v7 support.
+<table><thead><tr>
+
+<th valign="top">
+python-uvicorn
+</th>
+
+<th valign="top">
+python-gunicorn
+</th>
+
+<th valign="top">
+python-gunicorn-uvicorn
+</th>
+
+</tr></thead>
+<tr>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://projects.tedivm.com/assets/images/projects/multipy.png" /></div>
+  </div>
+<div>
+  Multiarchitecture Docker Containers for Python and Uvicorn
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://projects.tedivm.com/assets/images/projects/multipy.png" /></div>
+  </div>
+<div>
+  Multiarchitecture Docker Containers for Python and Gunicorn
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://projects.tedivm.com/assets/images/projects/multipy.png" /></div>
+  </div>
+<div>
+  Multiarchitecture Docker Containers for Python using Gunicorn and Uvicorn
+</div>
+</td>
+
+</tr>
+<tr>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://blog.tedivm.com/open-source/2021/11/multi-py-multiplatform-images-python/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="python-uvicorn Homepage"></a></td>
+
+<td><a href="https://github.com/multi-py/python-uvicorn"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="python-uvicorn on Github"></a></td>
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://blog.tedivm.com/open-source/2021/11/multi-py-multiplatform-images-python/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="python-gunicorn Homepage"></a></td>
+
+<td><a href="https://github.com/multi-py/python-gunicorn"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="python-gunicorn on Github"></a></td>
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://blog.tedivm.com/open-source/2021/11/multi-py-multiplatform-images-python/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="python-gunicorn-uvicorn Homepage"></a></td>
+
+<td><a href="https://github.com/multi-py/python-gunicorn-uvicorn"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="python-gunicorn-uvicorn on Github"></a></td>
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+</tr>
+</table><table><thead><tr>
+
+<th valign="top">
+python-oso
+</th>
+
+<th valign="top">
+❤️The Collab Lab❤️
+</th>
+
+<th valign="top">
+❤️EFF❤️
+</th>
+
+</tr></thead>
+<tr>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://projects.tedivm.com/assets/images/projects/multipy.png" /></div>
+  </div>
+<div>
+  Multiarchitecture Docker Containers for Python and OSO
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://avatars1.githubusercontent.com/u/53383537?s=200&v=4" /></div>
+  </div>
+<div>
+  Gain practical experience by working remotely on real world projects with other early career developers.
+</div>
+</td>
+
+<td valign="top">
+<div>
+  <div align="center"><img width="160" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/EFF_Logo.svg/2560px-EFF_Logo.svg.png" /></div>
+  </div>
+<div>
+  The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world.
+</div>
+</td>
+
+</tr>
+<tr>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://blog.tedivm.com/open-source/2021/11/multi-py-multiplatform-images-python/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="python-oso Homepage"></a></td>
+
+<td><a href="https://github.com/multi-py/python-oso"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.svg" title="python-oso on Github"></a></td>
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://the-collab-lab.codes/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="The Collab Lab Homepage"></a></td>
+
+
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+<td valign="top">
+<div align="center">
+<table>
+<tr>
+<td><a href="https://www.eff.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="EFF Homepage"></a></td>
+
+
+
+
+
+
+
+
+
+</tr>
+</table>
+</div>
+</td>
+
+</tr>
+</table>
+
 ## Digital Art
 <table><thead><tr>
 
@@ -543,11 +757,11 @@ Fetch
 </th>
 
 <th valign="top">
-❤️The Collab Lab❤️
+❤️Transgender Law Center❤️
 </th>
 
 <th valign="top">
-❤️EFF❤️
+❤️Tech Workers Coalition❤️
 </th>
 
 </tr></thead>
@@ -564,19 +778,19 @@ Fetch
 
 <td valign="top">
 <div>
-  <div align="center"><img width="160" src="https://avatars1.githubusercontent.com/u/53383537?s=200&v=4" /></div>
+  <div align="center"><img width="160" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Transgender_Law_Center_logo.jpg" /></div>
   </div>
 <div>
-  Gain practical experience by working remotely on real world projects with other early career developers.
+  Transgender Law Center is the largest national trans-led organization advocating self-determination for all people.
 </div>
 </td>
 
 <td valign="top">
 <div>
-  <div align="center"><img width="160" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/EFF_Logo.svg/2560px-EFF_Logo.svg.png" /></div>
+  <div align="center"><img width="160" src="https://techworkerscoalition.org/assets/img/logo.svg" /></div>
   </div>
 <div>
-  The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world.
+  Guided by our vision for an inclusive & equitable tech industry, TWC organizes to build worker power through rank & file self-organization and education.
 </div>
 </td>
 
@@ -606,7 +820,7 @@ Fetch
 <div align="center">
 <table>
 <tr>
-<td><a href="https://the-collab-lab.codes/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="The Collab Lab Homepage"></a></td>
+<td><a href="https://transgenderlawcenter.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Transgender Law Center Homepage"></a></td>
 
 
 
@@ -625,7 +839,7 @@ Fetch
 <div align="center">
 <table>
 <tr>
-<td><a href="https://www.eff.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="EFF Homepage"></a></td>
+<td><a href="https://techworkerscoalition.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Tech Workers Coalition Homepage"></a></td>
 
 
 
@@ -754,11 +968,11 @@ URLParser
 </th>
 
 <th valign="top">
-❤️Transgender Law Center❤️
+❤️Github Drop ICE❤️
 </th>
 
 <th valign="top">
-❤️Tech Workers Coalition❤️
+❤️#NoTechForIce❤️
 </th>
 
 </tr></thead>
@@ -774,19 +988,19 @@ URLParser
 
 <td valign="top">
 <div>
-  <div align="center"><img width="160" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Transgender_Law_Center_logo.jpg" /></div>
+  <div align="center"><img width="160" src="https://avatars2.githubusercontent.com/u/58058809?s=400&u=98d5957de9ace30ae6db75da31767eabdf9f3f6a&v=4" /></div>
   </div>
 <div>
-  Transgender Law Center is the largest national trans-led organization advocating self-determination for all people.
+  Github helps rip children from their families, and that is awful.
 </div>
 </td>
 
 <td valign="top">
 <div>
-  <div align="center"><img width="160" src="https://techworkerscoalition.org/assets/img/logo.svg" /></div>
+  <div align="center"><img width="160" src="https://www.fairplanet.org/wp-content/uploads/2019/12/notech.1575300216.jpg" /></div>
   </div>
 <div>
-  Guided by our vision for an inclusive & equitable tech industry, TWC organizes to build worker power through rank & file self-organization and education.
+  Tech companies are currently enabling ICE raids despite the national public health crisis. Tell tech execs to stop working for ICE immediately.
 </div>
 </td>
 
@@ -816,7 +1030,7 @@ URLParser
 <div align="center">
 <table>
 <tr>
-<td><a href="https://transgenderlawcenter.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Transgender Law Center Homepage"></a></td>
+<td><a href="https://github.com/drop-ice/dear-github-2.0"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Github Drop ICE Homepage"></a></td>
 
 
 
@@ -835,7 +1049,7 @@ URLParser
 <div align="center">
 <table>
 <tr>
-<td><a href="https://techworkerscoalition.org/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Tech Workers Coalition Homepage"></a></td>
+<td><a href="https://notechforice.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="#NoTechForIce Homepage"></a></td>
 
 
 
@@ -1603,11 +1817,11 @@ screeps-backup
 </th>
 
 <th valign="top">
-❤️Github Drop ICE❤️
+❤️Black Lives Matter❤️
 </th>
 
 <th valign="top">
-❤️#NoTechForIce❤️
+❤️The Collab Lab❤️
 </th>
 
 </tr></thead>
@@ -1624,19 +1838,19 @@ screeps-backup
 
 <td valign="top">
 <div>
-  <div align="center"><img width="160" src="https://avatars2.githubusercontent.com/u/58058809?s=400&u=98d5957de9ace30ae6db75da31767eabdf9f3f6a&v=4" /></div>
+  <div align="center"><img width="160" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Black_Lives_Matter_logo.svg/440px-Black_Lives_Matter_logo.svg.png" /></div>
   </div>
 <div>
-  Github helps rip children from their families, and that is awful.
+  The BLM mission is to eradicate white supremacy and build local power to intervene in violence inflicted on Black communities by the state and vigilantes.
 </div>
 </td>
 
 <td valign="top">
 <div>
-  <div align="center"><img width="160" src="https://www.fairplanet.org/wp-content/uploads/2019/12/notech.1575300216.jpg" /></div>
+  <div align="center"><img width="160" src="https://avatars1.githubusercontent.com/u/53383537?s=200&v=4" /></div>
   </div>
 <div>
-  Tech companies are currently enabling ICE raids despite the national public health crisis. Tell tech execs to stop working for ICE immediately.
+  Gain practical experience by working remotely on real world projects with other early career developers.
 </div>
 </td>
 
@@ -1666,7 +1880,7 @@ screeps-backup
 <div align="center">
 <table>
 <tr>
-<td><a href="https://github.com/drop-ice/dear-github-2.0"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Github Drop ICE Homepage"></a></td>
+<td><a href="https://blacklivesmatter.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="Black Lives Matter Homepage"></a></td>
 
 
 
@@ -1685,7 +1899,7 @@ screeps-backup
 <div align="center">
 <table>
 <tr>
-<td><a href="https://notechforice.com/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="#NoTechForIce Homepage"></a></td>
+<td><a href="https://the-collab-lab.codes/"><img height="32" src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/home.svg" title="The Collab Lab Homepage"></a></td>
 
 
 
