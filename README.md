@@ -1,6 +1,8 @@
+# Robert Hafner
 
+Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-Here's a selection of projects that I've either worked on.
+My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
 ## Applications
 * <img src="https://projects.tedivm.com/assets/images/projects/nebula.png" alt="Nebula" title="Nebula" width="20"/> [Nebula](https://github.com/tedivm/nebula) - Nebula provides a simplified dashboard that allows researchers to launch and manage their own servers on AWS.
