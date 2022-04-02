@@ -3,4 +3,4 @@
 {%- if category.description %}
 {{ category.description }}
 {%- endif %}
-{{ project_grid }}
+{{ project_display }}
