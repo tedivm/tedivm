@@ -28,6 +28,9 @@ jobs:
       - name: Update Readme
         run: make readme_list
 
+      - name: Update Readme
+        run: make readme_pdf
+
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
