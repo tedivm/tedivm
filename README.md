@@ -50,6 +50,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-aws-dev-vpn" title="terraform-aws-dev-vpn" width="20"/> [terraform-aws-dev-vpn](https://github.com/tedivm/terraform-aws-dev-vpn) - This module creates a user specific AWS VPN and drops an OpenVPN configuration file to the local system.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-aws-lambda" title="terraform-aws-lambda" width="20"/> [terraform-aws-lambda](https://github.com/tedivm/terraform-aws-lambda) - This module provides a variety of ways to deploy Lambda functions on AWS.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-general-cloudinit" title="terraform-general-cloudinit" width="20"/> [terraform-general-cloudinit](https://github.com/tedivm/terraform-general-cloudinit) - This module is a wrapper around the cloudinit resource that exposes cloud config settings directly.
+* <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="Terrapyst" title="Terrapyst" width="20"/> [Terrapyst](https://github.com/aptible/terrapyst) - A Python library for running Terraform programmatically, including plan review and advanced log processing.
 
 
 ## Puppet
