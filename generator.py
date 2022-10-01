@@ -7,9 +7,7 @@ from jinja2 import Template
 
 
 def get_project_data():
-    r = requests.get(
-        "https://raw.githubusercontent.com/tedivm/portfolio/master/_data/projects.yaml"
-    )
+    r = requests.get("https://raw.githubusercontent.com/tedivm/portfolio/master/_data/projects.yaml")
     return yaml.safe_load(r.text)
 
 
@@ -76,9 +74,7 @@ class PortfolioBuilder:
                 header_row += "</tr></thead>\n"
                 description_row += "</tr>\n"
                 nav_row += "</tr>\n"
-                output += (
-                    "<table>" + header_row + description_row + nav_row + "</table>"
-                )
+                output += "<table>" + header_row + description_row + nav_row + "</table>"
                 element = 0
         #
         #
@@ -111,9 +107,7 @@ class PortfolioBuilder:
                     header_row += "</tr></thead>\n"
                     description_row += "</tr>\n"
                     nav_row += "</tr>\n"
-                    output += (
-                        "<table>" + header_row + description_row + nav_row + "</table>"
-                    )
+                    output += "<table>" + header_row + description_row + nav_row + "</table>"
 
         return output
 
@@ -145,7 +139,7 @@ class PortfolioBuilder:
         if "image_url" in object:
             return object["image_url"]
         if "icon" in object:
-            return f"https://raw.githubusercontent.com/tedivm/tedivm/main/images/{ object['icon'].replace('fab fa-', '').replace('fas fa-', '') }.svg"
+            return f"https://raw.githubusercontent.com/tedivm/tedivm/main/images/{ object['icon'].replace('fab fa-', '').replace('fas fa-', '') }.png"
         return False
 
     def get_advert_project(self):
@@ -159,9 +153,7 @@ class PortfolioBuilder:
         else:
             project_display = self.get_project_list(category)
 
-        return self.category_template.render(
-            category=category, project_display=project_display
-        )
+        return self.category_template.render(category=category, project_display=project_display)
 
     def get_portfolio(self):
         output = ""
