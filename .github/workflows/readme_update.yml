@@ -28,7 +28,7 @@ jobs:
       - name: Update Readme
         run: make readme_list
 
-      - name: Update Readme
+      - name: Update PDF
         run: make readme_pdf
 
       - name: Commit files
