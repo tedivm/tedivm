@@ -25,6 +25,13 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 * <img src="https://projects.tedivm.com/assets/images/projects/multipy.png" alt="python-oso" title="python-oso" width="20"/> [python-oso](https://github.com/multi-py/python-oso) - Multiarchitecture Docker Containers for Python with OSO
 
 
+## Python Development
+These tools were specifically designed to make development with Python easier.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Awesome Python Template" title="Awesome Python Template" width="20"/> [Awesome Python Template](https://github.com/tedivm/tedivms_awesome_python_template) - This is the complete CookieCutter template for Python that can be used for any project.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.png" alt="tedivms-flask" title="tedivms-flask" width="20"/> [tedivms-flask](https://github.com/tedivm/tedivms-flask) - This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="Python Lockfile Update" title="Python Lockfile Update" width="20"/> [Python Lockfile Update](https://github.com/tedivm/action-python-lockfile-update) - A Github Action that uses pip-tools to update a project's requirements.txt files using a Pull Request.
+
+
 ## Digital Art
 * <img src="https://projects.tedivm.com/assets/images/projects/game_of_life.png" alt="Game of Life" title="Game of Life" width="20"/> [Game of Life](https://github.com/tedivm/game_of_life_populations) - A Game of Life implimentation with additional rules and varients that add colors, written in javascript using canvas.
 * <img src="https://projects.tedivm.com/assets/images/projects/formations.png" alt="Formations" title="Formations" width="20"/> [Formations](https://github.com/tedivm/formations) - An experiment in digital movement.
@@ -43,6 +50,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="JSONSmash" title="JSONSmash" width="20"/> [JSONSmash](https://github.com/tedivm/jsonsmash) - A node cli shell that lets users browse large json objects like they would a filesystem.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="SecretCLI" title="SecretCLI" width="20"/> [SecretCLI](https://github.com/tedivm/secretcli) - A simple CLI tool that makes reading and writing to the <a href="https://aws.amazon.com/secrets-manager/">AWS Secrets Manager</a> super easy.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="URLParser" title="URLParser" width="20"/> [URLParser](https://github.com/tedivm/URLParser) - Another really simple tool, the URLParser takes in various URIs and returns back the piece you're looking for; such as the scheme, domain, or port.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="DapperData" title="DapperData" width="20"/> [DapperData](https://github.com/tedivm/dapperdata) - An opinionated file formatter for JSON and YAML that can be used to fix formatting or integrated into the test suite to ensure files are formatted appropriately.
 
 
 ## Terraform
@@ -63,7 +71,6 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 
 
 ## Misc
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.png" alt="tedivms-flask" title="tedivms-flask" width="20"/> [tedivms-flask](https://github.com/tedivm/tedivms-flask) - This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="Jekyll Portfolio" title="Jekyll Portfolio" width="20"/> [Jekyll Portfolio](https://github.com/tedivm/jekyll-theme-portfolio) - The theme behind this very portfolio is available for you to use to build your own portfolio site with Jekyll and Github Pages.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/slack.png" alt="Slack Proxy" title="Slack Proxy" width="20"/> [Slack Proxy](https://github.com/tedivm/slack_proxy) - This simple to deploy application allows developers to send notifications to slack without having to manage webhooks directly themselves.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/file-medical-alt.png" alt="NLM Scrubber Assist" title="NLM Scrubber Assist" width="20"/> [NLM Scrubber Assist](https://github.com/radaisystems/nlm-scrubber-docker) - The <a href="https://scrubber.nlm.nih.gov/">NLM Scrubber</a> is a package released by the National Library of Medicine to remove PHI from medical documents. This project wraps that in a docker container and provides python and bash libraries.
