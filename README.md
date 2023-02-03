@@ -27,7 +27,7 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 
 ## Python Development
 These tools were specifically designed to make development with Python easier.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Awesome Python Template" title="Awesome Python Template" width="20"/> [Awesome Python Template](https://github.com/tedivm/tedivms_awesome_python_template) - This is the complete CookieCutter template for Python that can be used for any project.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Rob's Awesome Python Template" title="Rob's Awesome Python Template" width="20"/> [Rob's Awesome Python Template](https://github.com/tedivm/robs_awesome_python_template) - This is the complete CookieCutter template for Python that can be used for any project.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.png" alt="tedivms-flask" title="tedivms-flask" width="20"/> [tedivms-flask](https://github.com/tedivm/tedivms-flask) - This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="Python Lockfile Update" title="Python Lockfile Update" width="20"/> [Python Lockfile Update](https://github.com/tedivm/action-python-lockfile-update) - A Github Action that uses pip-tools to update a project's requirements.txt files using a Pull Request.
 
@@ -43,6 +43,7 @@ These tools were specifically designed to make development with Python easier.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="JShrink" title="JShrink" width="20"/> [JShrink](https://github.com/tedious/JShrink) - This library minifies javascript using 100% pure PHP, allowing it to be integrated into applications with minimal work and maximum compatibility.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.png" alt="github3apps.py" title="github3apps.py" width="20"/> [github3apps.py](https://github.com/tedivm/github3apps.py) - This library is a wrapper around the <a href="https://github.com/sigmavirus24/github3.py">github3.py</a> library, giving it the ability to build GitHub Applications.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="Fetch" title="Fetch" width="20"/> [Fetch](https://github.com/tedious/Fetch) - This library wraps the native PHP IMAP libraries around a modern object orientated interface.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="QuasiQueue" title="QuasiQueue" width="20"/> [QuasiQueue](https://github.com/tedious/quasiqueue) - A MultiProcessing library for Python that makes it super easy to have long running MultiProcess jobs.
 
 
 ## CLIs
