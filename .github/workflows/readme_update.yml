@@ -7,13 +7,43 @@ on:
       - "main"
     paths-ignore:
       - "/README.md"
+      - "/RobertsProjects.pdf"
 
 jobs:
   Readme-Update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: Install python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Update Readme
+        run: make readme_list
+
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Automated Readme Update" -a || true
+
+      - name: Push changes
+        uses: ad-m/github-push-action@0fafdd62b84042d49ec0cb92d9cac7f7ce4ec79e
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+  PDF-Update:
+    runs-on: ubuntu-latest
+    needs: ["Readme-Update"]
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - uses: actions/setup-python@v3
         with:
@@ -23,10 +53,9 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Install wkhtmltopdf
-        run: sudo apt-get install xvfb libfontconfig wkhtmltopdf
-
-      - name: Update Readme
-        run: make readme_list
+        run: |
+          sudo apt-get update
+          sudo apt-get install xvfb libfontconfig wkhtmltopdf
 
       - name: Update PDF
         run: make readme_pdf
@@ -35,10 +64,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "Automated Readme Update" -a || true
+          git commit -m "Automated Portfolio PDF Update" -a || true
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@0fafdd62b84042d49ec0cb92d9cac7f7ce4ec79e
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
