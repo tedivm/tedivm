@@ -7,7 +7,8 @@ import yaml
 from github import Github
 from jinja2 import Template
 
-gh = Github(os.environ['GITHUB_TOKEN'])
+GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
+gh = Github(GITHUB_TOKEN)
 
 
 def get_project_data():
@@ -24,12 +25,11 @@ def get_repo_commit_count(project):
     Return the number of commits to a project
     Source: https://stackoverflow.com/a/55873469/212774
     """
-    token = os.environ.get('GITHUB_SECRET')
     url = f'https://api.github.com/repos/{project}/commits'
     headers = {
         'Accept': 'application/json',
         'Content-Type': 'application/json',
-        'Authorization': f'token {token}',
+        'Authorization': f'token {GITHUB_TOKEN}',
     }
     params = {'per_page': 1}
     resp = requests.request('GET', url, params=params, headers=headers)
