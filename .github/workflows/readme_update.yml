@@ -28,7 +28,7 @@ jobs:
       - name: Update Readme
         run: make readme_list
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.READ_ONLY_TOKEN }}
 
       - name: Commit files
         run: |
