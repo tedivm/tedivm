@@ -1,9 +1,13 @@
 import os
+import urllib
 from unicodedata import category
 
 import requests
 import yaml
+from github import Github
 from jinja2 import Template
+
+gh = Github(os.environ['GITHUB_TOKEN'])
 
 
 def get_project_data():
@@ -15,6 +19,32 @@ def get_avert_data():
     with open("adverts.yaml") as fp:
         return yaml.safe_load(fp.read())
 
+def get_repo_commit_count(project):
+    """
+    Return the number of commits to a project
+    Source: https://stackoverflow.com/a/55873469/212774
+    """
+    token = os.environ.get('GITHUB_SECRET')
+    url = f'https://api.github.com/repos/{project}/commits'
+    headers = {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+        'Authorization': f'token {token}',
+    }
+    params = {'per_page': 1}
+    resp = requests.request('GET', url, params=params, headers=headers)
+    if (resp.status_code // 100) != 2:
+        raise Exception(f'invalid github response: {resp.content}')
+    # check the resp count, just in case there are 0 commits
+    commit_count = len(resp.json())
+    last_page = resp.links.get('last')
+    # if there are no more pages, the count must be 0 or 1
+    if last_page:
+        # extract the query string from the last page url
+        qs = urllib.parse.urlparse(last_page['url']).query
+        # extract the page number from the query string
+        commit_count = int(dict(urllib.parse.parse_qsl(qs))['page'])
+    return commit_count
 
 def pretty_print(data):
     print(yaml.dump(data, sort_keys=False))
@@ -36,6 +66,28 @@ class PortfolioBuilder:
         self.readme_template = get_template("readme")
         self.adverts = get_avert_data()
         self.adverts_index = 0
+
+    def get_stats(self):
+        stats = {
+            "repositories": 0,
+            "forks": 0,
+            "watchers": 0,
+            "stargazers": 0,
+            "commits": 0
+        }
+
+        for category in self.data:
+            for project in category['projects']:
+                if not 'github' in project:
+                    continue
+                repo = gh.get_repo(project['github'])
+                stats['forks'] += repo.forks_count
+                stats['watchers'] += repo.subscribers_count
+                stats['stargazers'] += repo.stargazers_count
+                stats['commits'] += get_repo_commit_count(project['github'])
+                stats['repositories'] += 1
+
+        return stats
 
     def get_project_description(self, category, project):
         return self.project_template.render(project=project, category=category)
@@ -164,7 +216,8 @@ class PortfolioBuilder:
 
     def get_readme(self):
         portfolio = self.get_portfolio()
-        return self.readme_template.render(portfolio=portfolio)
+        stats = self.get_stats()
+        return self.readme_template.render(portfolio=portfolio, stats=stats)
 
 
 # pretty_print(get_project_data())

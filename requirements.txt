@@ -3,3 +3,4 @@ Jinja2
 requests
 pdfkit
 gh-md-to-html
+PyGithub
