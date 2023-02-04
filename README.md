@@ -1,6 +1,8 @@
 # Robert Hafner's Projects
 
-Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development. These 54 repositories have been forked 683 times, starred 3053 times, watched by 233 people, and have a total of 5032 commits.
+Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
+
+These **54 repositories** have **683 forks**, **3053 stars**, **233 watchers**, and **5032 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
