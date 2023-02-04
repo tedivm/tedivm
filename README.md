@@ -43,7 +43,7 @@ These tools were specifically designed to make development with Python easier.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="JShrink" title="JShrink" width="20"/> [JShrink](https://github.com/tedious/JShrink) - This library minifies javascript using 100% pure PHP, allowing it to be integrated into applications with minimal work and maximum compatibility.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.png" alt="github3apps.py" title="github3apps.py" width="20"/> [github3apps.py](https://github.com/tedivm/github3apps.py) - This library is a wrapper around the <a href="https://github.com/sigmavirus24/github3.py">github3.py</a> library, giving it the ability to build GitHub Applications.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="Fetch" title="Fetch" width="20"/> [Fetch](https://github.com/tedious/Fetch) - This library wraps the native PHP IMAP libraries around a modern object orientated interface.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="QuasiQueue" title="QuasiQueue" width="20"/> [QuasiQueue](https://github.com/tedious/quasiqueue) - A MultiProcessing library for Python that makes it super easy to have long running MultiProcess jobs.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="QuasiQueue" title="QuasiQueue" width="20"/> [QuasiQueue](https://github.com/tedivm/quasiqueue) - A MultiProcessing library for Python that makes it super easy to have long running MultiProcess jobs.
 
 
 ## CLIs
