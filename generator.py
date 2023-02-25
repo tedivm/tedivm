@@ -1,4 +1,5 @@
 import os
+import sys
 import urllib
 from unicodedata import category
 
@@ -9,6 +10,9 @@ from jinja2 import Template
 
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
 gh = Github(GITHUB_TOKEN)
+
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
 
 
 def get_project_data():
@@ -80,6 +84,7 @@ class PortfolioBuilder:
             for project in category['projects']:
                 if not 'github' in project:
                     continue
+                eprint(f"Getting stats for {project['github']}")
                 repo = gh.get_repo(project['github'])
                 stats['forks'] += repo.forks_count
                 stats['watchers'] += repo.subscribers_count

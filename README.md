@@ -2,7 +2,7 @@
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **54 repositories** have **685 forks**, **3064 stars**, **234 watchers**, and **5047 commits**.
+These **54 repositories** have **684 forks**, **3065 stars**, **231 watchers**, and **5048 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -61,7 +61,7 @@ These tools were specifically designed to make development with Python easier.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-aws-dev-vpn" title="terraform-aws-dev-vpn" width="20"/> [terraform-aws-dev-vpn](https://github.com/tedivm/terraform-aws-dev-vpn) - This module creates a user specific AWS VPN and drops an OpenVPN configuration file to the local system.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-aws-lambda" title="terraform-aws-lambda" width="20"/> [terraform-aws-lambda](https://github.com/tedivm/terraform-aws-lambda) - This module provides a variety of ways to deploy Lambda functions on AWS.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-general-cloudinit" title="terraform-general-cloudinit" width="20"/> [terraform-general-cloudinit](https://github.com/tedivm/terraform-general-cloudinit) - This module is a wrapper around the cloudinit resource that exposes cloud config settings directly.
-* <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="Terrapyst" title="Terrapyst" width="20"/> [Terrapyst](https://github.com/aptible/terrapyst) - A Python library for running Terraform programmatically, including plan review and advanced log processing.
+* <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="Terraformer" title="Terraformer" width="20"/> [Terraformer](https://github.com/tedivm/terraformer) - A Python library for running Terraform programmatically, including plan review and advanced log processing.
 
 
 ## Puppet
