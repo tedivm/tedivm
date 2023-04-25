@@ -2,7 +2,7 @@
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **54 repositories** have **688 forks**, **3105 stars**, **234 watchers**, and **5116 commits**.
+These **54 repositories** have **688 forks**, **3106 stars**, **234 watchers**, and **5116 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
