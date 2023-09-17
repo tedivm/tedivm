@@ -2,7 +2,7 @@
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **54 repositories** have **732 forks**, **3179 stars**, **274 watchers**, and **5162 commits**.
+These **54 repositories** have **732 forks**, **3180 stars**, **274 watchers**, and **5162 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -13,7 +13,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 * <img src="https://projects.tedivm.com/assets/images/projects/githuborganizer.png" alt="GithubOrganizer" title="GithubOrganizer" width="20"/> [GithubOrganizer](https://github.com/gitconsensus/GithubOrganizer) - GithubOrganizer applies settings to teams, repositories, and issues- automatically protecting branches, applying labels, and assigning issues to projects.
 * <img src="https://projects.tedivm.com/assets/images/projects/badthings.jpg" alt="BadThings Slack Bot" title="BadThings Slack Bot" width="20"/> [BadThings Slack Bot](https://github.com/tedivm/BadThingsDailyBot) - The <a href="https://twitter.com/badthingsdaily">Bad Things Daily Twitter</a> account provides scenarios for tabletop disaster planning. This application sends random scenarios right to Slack.
 * <img src="https://projects.tedivm.com/assets/images/projects/loan.png" alt="League of Automated Nations" title="League of Automated Nations" width="20"/> [League of Automated Nations](https://github.com/LeagueOfAutomatedNations/Screeps-LoAN) - This web application is an alliance tracker for a programming game called Screeps. It maintains rankings as well as an interactive map showing which rooms are claimed by different players and alliances.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="GitStars" title="GitStars" width="20"/> [GitStars](https://github.com/tedivm/gitstars) - A Github API aimed at Front End use. This API uses extensive caching and authenticated APIs to work around Github API Ratelimiting. It drives the <a href="https://gitbuttons.tedivm.com">Github Star Badges</a> on this very site.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="GitStars" title="GitStars" width="20"/> [GitStars](https://github.com/tedivm/gitstars) - A Github API aimed at Front End use. This API uses extensive caching and authenticated APIs to work around Github API Ratelimiting. It drives the <a href="https://gitbuttons.tedivm.com">Github Star Badges</a> on my portfolio site.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/aws.png" alt="ec2details" title="ec2details" width="20"/> [ec2details](https://github.com/tedivm/ec2details) - This service provides an API with metadata (including pricing) for every AWS EC2 instance type.
 It processes the AWS Bulk API to multiple times a day to always provide the most up to date information.
 
