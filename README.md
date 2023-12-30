@@ -10,7 +10,7 @@ My new book, [Terraform in Depth, is now in the Manning Early Access Program](ht
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **54 repositories** have **784 forks**, **3280 stars**, **275 watchers**, and **5233 commits**.
+These **55 repositories** have **784 forks**, **3281 stars**, **276 watchers**, and **5268 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -40,6 +40,7 @@ These tools were specifically designed to make development with Python easier.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Rob's Awesome Python Template" title="Rob's Awesome Python Template" width="20"/> [Rob's Awesome Python Template](https://github.com/tedivm/robs_awesome_python_template) - This is the complete CookieCutter template for Python that can be used for any project.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.png" alt="tedivms-flask" title="tedivms-flask" width="20"/> [tedivms-flask](https://github.com/tedivm/tedivms-flask) - This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="Python Lockfile Update" title="Python Lockfile Update" width="20"/> [Python Lockfile Update](https://github.com/tedivm/action-python-lockfile-update) - A Github Action that uses pip-tools to update a project's requirements.txt files using a Pull Request.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Paracelsus" title="Paracelsus" width="20"/> [Paracelsus](https://github.com/tedivm/paracelsus) - Generate Entity Relationship Diagrams in Mermaid or Dot format for SQLAlchemy Databases.
 
 
 ## Digital Art
