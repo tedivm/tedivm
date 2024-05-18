@@ -10,9 +10,15 @@ My new book, [Terraform in Depth, is now in the Manning Early Access Program](ht
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **55 repositories** have **710 forks**, **3496 stars**, **277 watchers**, and **5454 commits**.
+These **56 repositories** have **710 forks**, **3506 stars**, **278 watchers**, and **5456 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
+
+## Project Templates
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Rob's Awesome Python Template" title="Rob's Awesome Python Template" width="20"/> [Rob's Awesome Python Template](https://github.com/tedivm/robs_awesome_python_template) - This is the complete CookieCutter template for Python that can be used for any project.
+* <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="Terraform Module Cookiecutter" title="Terraform Module Cookiecutter" width="20"/> [Terraform Module Cookiecutter](https://github.com/TerraformInDepth/terraform-module-cookiecutter) - This CookieCutter Template generates Terraform Modules with all the best practices and tools.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.png" alt="tedivms-flask" title="tedivms-flask" width="20"/> [tedivms-flask](https://github.com/tedivm/tedivms-flask) - This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
+
 
 ## Applications
 * <img src="https://projects.tedivm.com/assets/images/projects/nebula.png" alt="Nebula" title="Nebula" width="20"/> [Nebula](https://github.com/tedivm/nebula) - Nebula provides a simplified dashboard that allows researchers to launch and manage their own servers on AWS.
@@ -37,8 +43,6 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 
 ## Python Development
 These tools were specifically designed to make development with Python easier.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Rob's Awesome Python Template" title="Rob's Awesome Python Template" width="20"/> [Rob's Awesome Python Template](https://github.com/tedivm/robs_awesome_python_template) - This is the complete CookieCutter template for Python that can be used for any project.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.png" alt="tedivms-flask" title="tedivms-flask" width="20"/> [tedivms-flask](https://github.com/tedivm/tedivms-flask) - This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="Python Lockfile Update" title="Python Lockfile Update" width="20"/> [Python Lockfile Update](https://github.com/tedivm/action-python-lockfile-update) - A Github Action that uses pip-tools to update a project's requirements.txt files using a Pull Request.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Paracelsus" title="Paracelsus" width="20"/> [Paracelsus](https://github.com/tedivm/paracelsus) - Generate Entity Relationship Diagrams in Mermaid or Dot format for SQLAlchemy Databases.
 
