@@ -10,7 +10,7 @@ My new book, [Terraform in Depth, is now in the Manning Early Access Program](ht
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **56 repositories** have **716 forks**, **3575 stars**, **278 watchers**, and **5503 commits**.
+These **57 repositories** have **716 forks**, **3588 stars**, **278 watchers**, and **5463 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -18,6 +18,14 @@ My professional history can be found on [LinkedIn](https://www.linkedin.com/in/r
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Rob's Awesome Python Template" title="Rob's Awesome Python Template" width="20"/> [Rob's Awesome Python Template](https://github.com/tedivm/robs_awesome_python_template) - This is the complete CookieCutter template for Python that can be used for any project.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="Terraform Module Cookiecutter" title="Terraform Module Cookiecutter" width="20"/> [Terraform Module Cookiecutter](https://github.com/TerraformInDepth/terraform-module-cookiecutter) - This CookieCutter Template generates Terraform Modules with all the best practices and tools.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/flask.png" alt="tedivms-flask" title="tedivms-flask" width="20"/> [tedivms-flask](https://github.com/tedivm/tedivms-flask) - This is my default Flask project template. It contains a complete docker environment, user management system, API system, Celery worker and tasks, and other important modules in addition to a Bootstrap based front end.
+
+
+## Favorites
+* <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="TofuPy" title="TofuPy" width="20"/> [TofuPy](https://github.com/terraformindepth/tofupy) - A Python library that makes it easy to build tools around OpenTofu and Terraform.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="QuasiQueue" title="QuasiQueue" width="20"/> [QuasiQueue](https://github.com/tedivm/quasiqueue) - A MultiProcessing library for Python that makes it super easy to have long running MultiProcess jobs.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Paracelsus" title="Paracelsus" width="20"/> [Paracelsus](https://github.com/tedivm/paracelsus) - Generate Entity Relationship Diagrams in Mermaid or Dot format for SQLAlchemy Databases.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="Stash" title="Stash" width="20"/> [Stash](https://github.com/tedious/Stash) - This caching library supports multiple backends with a consistent frontend. It supports hierarchical keys, stampede and dogpile protection, automatic miss distribution, and more.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="JShrink" title="JShrink" width="20"/> [JShrink](https://github.com/tedious/JShrink) - This library minifies javascript using 100% pure PHP, allowing it to be integrated into applications with minimal work and maximum compatibility.
 
 
 ## Applications
@@ -44,7 +52,6 @@ It processes the AWS Bulk API to multiple times a day to always provide the most
 ## Python Development
 These tools were specifically designed to make development with Python easier.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="Python Lockfile Update" title="Python Lockfile Update" width="20"/> [Python Lockfile Update](https://github.com/tedivm/action-python-lockfile-update) - A Github Action that uses pip-tools to update a project's requirements.txt files using a Pull Request.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Paracelsus" title="Paracelsus" width="20"/> [Paracelsus](https://github.com/tedivm/paracelsus) - Generate Entity Relationship Diagrams in Mermaid or Dot format for SQLAlchemy Databases.
 
 
 ## Digital Art
@@ -54,11 +61,8 @@ These tools were specifically designed to make development with Python easier.
 
 
 ## Libraries
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="Stash" title="Stash" width="20"/> [Stash](https://github.com/tedious/Stash) - This caching library supports multiple backends with a consistent frontend. It supports hierarchical keys, stampede and dogpile protection, automatic miss distribution, and more.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="JShrink" title="JShrink" width="20"/> [JShrink](https://github.com/tedious/JShrink) - This library minifies javascript using 100% pure PHP, allowing it to be integrated into applications with minimal work and maximum compatibility.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.png" alt="github3apps.py" title="github3apps.py" width="20"/> [github3apps.py](https://github.com/tedivm/github3apps.py) - This library is a wrapper around the <a href="https://github.com/sigmavirus24/github3.py">github3.py</a> library, giving it the ability to build GitHub Applications.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="Fetch" title="Fetch" width="20"/> [Fetch](https://github.com/tedious/Fetch) - This library wraps the native PHP IMAP libraries around a modern object orientated interface.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="QuasiQueue" title="QuasiQueue" width="20"/> [QuasiQueue](https://github.com/tedivm/quasiqueue) - A MultiProcessing library for Python that makes it super easy to have long running MultiProcess jobs.
 
 
 ## CLIs
@@ -70,11 +74,11 @@ These tools were specifically designed to make development with Python easier.
 
 
 ## Terraform
+* <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-mastodon-provider" title="terraform-mastodon-provider" width="20"/> [terraform-mastodon-provider](https://github.com/terraformindepth/terraform-provider-mastodon) - A Terraform provider for posting to Mastodon servers.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-aws-nat" title="terraform-aws-nat" width="20"/> [terraform-aws-nat](https://github.com/tedivm/terraform-aws-nat) - This module launches a NAT Instance on AWS for cheap and efficient private subnet internet access.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-aws-dev-vpn" title="terraform-aws-dev-vpn" width="20"/> [terraform-aws-dev-vpn](https://github.com/tedivm/terraform-aws-dev-vpn) - This module creates a user specific AWS VPN and drops an OpenVPN configuration file to the local system.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-aws-lambda" title="terraform-aws-lambda" width="20"/> [terraform-aws-lambda](https://github.com/tedivm/terraform-aws-lambda) - This module provides a variety of ways to deploy Lambda functions on AWS.
 * <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="terraform-general-cloudinit" title="terraform-general-cloudinit" width="20"/> [terraform-general-cloudinit](https://github.com/tedivm/terraform-general-cloudinit) - This module is a wrapper around the cloudinit resource that exposes cloud config settings directly.
-* <img src="https://projects.tedivm.com/assets/images/projects/terraform.png" alt="Terraformer" title="Terraformer" width="20"/> [Terraformer](https://github.com/tedivm/terraformer) - A Python library for running Terraform programmatically, including plan review and advanced log processing.
 
 
 ## Puppet
