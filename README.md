@@ -10,7 +10,7 @@ My new book, [Terraform in Depth, is now in the Manning Early Access Program](ht
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **57 repositories** have **717 forks**, **3612 stars**, **279 watchers**, and **5479 commits**.
+These **58 repositories** have **717 forks**, **3613 stars**, **280 watchers**, and **5480 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -55,8 +55,9 @@ These tools were specifically designed to make development with Python easier.
 
 
 ## Digital Art
-* <img src="https://projects.tedivm.com/assets/images/projects/game_of_life.png" alt="Game of Life" title="Game of Life" width="20"/> [Game of Life](https://github.com/tedivm/game_of_life_populations) - A Game of Life implimentation with additional rules and varients that add colors, written in javascript using canvas.
+* <img src="https://projects.tedivm.com/assets/images/projects/game_of_life.png" alt="Game of Life" title="Game of Life" width="20"/> [Game of Life](https://github.com/tedivm/game_of_life_populations) - A Conway's Game of Life implimentation with additional rules and variants that add colors, written in javascript using canvas.
 * <img src="https://projects.tedivm.com/assets/images/projects/formations.png" alt="Formations" title="Formations" width="20"/> [Formations](https://github.com/tedivm/formations) - An experiment in digital movement.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Rob's Wall Clock" title="Rob's Wall Clock" width="20"/> [Rob's Wall Clock](https://github.com/tedivm/robs_wall_clock) - A hardware project building an internet enabled clock with a colorful variant of Conway's Game of Life as a background.
 * <img src="https://projects.tedivm.com/assets/images/projects/ggw.png" alt="Good Guy Warren" title="Good Guy Warren" width="20"/> [Good Guy Warren](https://github.com/tedivm/www.goodguywarren.com) - An Elizabeth Warren Meme Collection. Memes are built using JS Canvas.
 
 
