@@ -10,7 +10,7 @@ My new book, [Terraform in Depth, is now in the Manning Early Access Program](ht
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **58 repositories** have **722 forks**, **3745 stars**, **282 watchers**, and **5543 commits**.
+These **59 repositories** have **722 forks**, **3746 stars**, **283 watchers**, and **5551 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -38,6 +38,7 @@ It also provides SSH Key management, scheduled shutdowns, group controls, and a 
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="GitStars" title="GitStars" width="20"/> [GitStars](https://github.com/tedivm/gitstars) - A Github API aimed at Front End use. This API uses extensive caching and authenticated APIs to work around Github API Ratelimiting. It drives the <a href="https://gitbuttons.tedivm.com">Github Star Badges</a> on my portfolio site.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/aws.png" alt="ec2details" title="ec2details" width="20"/> [ec2details](https://github.com/tedivm/ec2details) - This service provides an API with metadata (including pricing) for every AWS EC2 instance type.
 It processes the AWS Bulk API to multiple times a day to always provide the most up to date information.
+* <img src="https://projects.tedivm.com/assets/images/projects/qr_creator.svg" alt="QR Stencil Creator" title="QR Stencil Creator" width="20"/> [QR Stencil Creator](https://github.com/tedivm/qr_stencil_creator) - A simple web application that lets users create QR codes that can be turned into stencils with a laser cutter or similar tool.
 
 
 ## Multi-Py
