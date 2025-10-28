@@ -10,7 +10,7 @@ My new book, [Terraform in Depth, is now in the Manning Early Access Program](ht
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **59 repositories** have **750 forks**, **4001 stars**, **224 watchers**, and **5658 commits**.
+These **59 repositories** have **750 forks**, **4004 stars**, **224 watchers**, and **5658 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
