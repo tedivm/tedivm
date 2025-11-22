@@ -2,9 +2,9 @@
 
 ## Terraform in Depth
 
-[![Terraform in Depth](https://raw.githubusercontent.com/tedivm/tedivm/main/images/meap_terraform.png "Terraform in Depth")](http://mng.bz/QR21)
+<img src="https://images.manning.com/book/8/3e91fc6-7f2e-40cf-878b-e47188cda3a8/DOTD_hafner.png" width="600" />
 
-My new book, [Terraform in Depth, is now in the Manning Early Access Program](http://mng.bz/QR21)! The early access program isn't just a preview of the book: you'll get access to live forums where you can provide feedback, ask questions, or even just chat! Whether you're brand new to Terraform or are looking to take your team to the next level this book will have something for you! Use coupon code `mlhafner` for 45% off.
+My  book, [Terraform in Depth, is available from Manning Publications](http://mng.bz/QR21)! Whether you're brand new to Terraform or are looking to take your team to the next level this book will have something for you.
 
 ## Open Source Portfolio
 
