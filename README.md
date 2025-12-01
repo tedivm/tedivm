@@ -10,7 +10,7 @@ My  book, [Terraform in Depth, is available from Manning Publications](http://mn
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **59 repositories** have **757 forks**, **4022 stars**, **224 watchers**, and **5691 commits**.
+These **59 repositories** have **757 forks**, **4020 stars**, **223 watchers**, and **5666 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -55,16 +55,16 @@ These tools were specifically designed to make development with Python easier.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="Python Lockfile Update" title="Python Lockfile Update" width="20"/> [Python Lockfile Update](https://github.com/tedivm/action-python-lockfile-update) - A Github Action that uses pip-tools to update a project's requirements.txt files using a Pull Request.
 
 
+## Libraries
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="SkySnoop" title="SkySnoop" width="20"/> [SkySnoop](https://github.com/tedivm/skysnoop) - A Python SDK and CLI for querying aircraft data from adsb.lol, a community-driven ADS-B aggregation service.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.png" alt="github3apps.py" title="github3apps.py" width="20"/> [github3apps.py](https://github.com/tedivm/github3apps.py) - This library is a wrapper around the <a href="https://github.com/sigmavirus24/github3.py">github3.py</a> library, giving it the ability to build GitHub Applications.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="Fetch" title="Fetch" width="20"/> [Fetch](https://github.com/tedious/Fetch) - This library wraps the native PHP IMAP libraries around a modern object orientated interface.
+
+
 ## Digital Art
 * <img src="https://projects.tedivm.com/assets/images/projects/game_of_life.png" alt="Game of Life" title="Game of Life" width="20"/> [Game of Life](https://github.com/tedivm/game_of_life_populations) - A Conway's Game of Life implimentation with additional rules and variants that add colors, written in javascript using canvas.
 * <img src="https://projects.tedivm.com/assets/images/projects/formations.png" alt="Formations" title="Formations" width="20"/> [Formations](https://github.com/tedivm/formations) - An experiment in digital movement.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Rob's Wall Clock" title="Rob's Wall Clock" width="20"/> [Rob's Wall Clock](https://github.com/tedivm/robs_wall_clock) - A hardware project building an internet enabled clock with a colorful variant of Conway's Game of Life as a background.
-* <img src="https://projects.tedivm.com/assets/images/projects/ggw.png" alt="Good Guy Warren" title="Good Guy Warren" width="20"/> [Good Guy Warren](https://github.com/tedivm/www.goodguywarren.com) - An Elizabeth Warren Meme Collection. Memes are built using JS Canvas.
-
-
-## Libraries
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github.png" alt="github3apps.py" title="github3apps.py" width="20"/> [github3apps.py](https://github.com/tedivm/github3apps.py) - This library is a wrapper around the <a href="https://github.com/sigmavirus24/github3.py">github3.py</a> library, giving it the ability to build GitHub Applications.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="Fetch" title="Fetch" width="20"/> [Fetch](https://github.com/tedious/Fetch) - This library wraps the native PHP IMAP libraries around a modern object orientated interface.
 
 
 ## CLIs
