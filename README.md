@@ -10,7 +10,7 @@ My  book, [Terraform in Depth, is available from Manning Publications](http://mn
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **59 repositories** have **762 forks**, **4028 stars**, **223 watchers**, and **5671 commits**.
+These **60 repositories** have **762 forks**, **4029 stars**, **223 watchers**, and **5685 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -68,6 +68,7 @@ These tools were specifically designed to make development with Python easier.
 
 
 ## CLIs
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="GitBrag" title="GitBrag" width="20"/> [GitBrag](https://github.com/tedivm/gitbrag) - This CLI generates Open Source Contribution reports for Github users.
 * <img src="https://projects.tedivm.com/assets/images/projects/gitconsensus.png" alt="GitConsensus CLI" title="GitConsensus CLI" width="20"/> [GitConsensus CLI](https://github.com/gitconsensus/GitConsensusCLI) - A standalone python application and library for managing Github PRs using Reactions as a voting mechanism.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="JSONSmash" title="JSONSmash" width="20"/> [JSONSmash](https://github.com/tedivm/jsonsmash) - A node cli shell that lets users browse large json objects like they would a filesystem.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="SecretCLI" title="SecretCLI" width="20"/> [SecretCLI](https://github.com/tedivm/secretcli) - A simple CLI tool that makes reading and writing to the <a href="https://aws.amazon.com/secrets-manager/">AWS Secrets Manager</a> super easy.
