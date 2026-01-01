@@ -29,16 +29,17 @@ My professional history can be found on [LinkedIn](https://www.linkedin.com/in/r
 
 
 ## Applications
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="git brag" title="git brag" width="20"/> [git brag](https://github.com/tedivm/gitbrag) - Highlight and Share Your Open Source Contributions using a web application or CLI.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="GitStars" title="GitStars" width="20"/> [GitStars](https://github.com/tedivm/gitstars) - A Github API aimed at Front End use. This API uses extensive caching and authenticated APIs to work around Github API Ratelimiting. It drives the <a href="https://gitbuttons.tedivm.com">Github Star Badges</a> on my portfolio site.
+* <img src="https://projects.tedivm.com/assets/images/projects/qr_creator.svg" alt="QR Stencil Creator" title="QR Stencil Creator" width="20"/> [QR Stencil Creator](https://github.com/tedivm/qr_stencil_creator) - A simple web application that lets users create QR codes that can be turned into stencils with a laser cutter or similar tool.
 * <img src="https://projects.tedivm.com/assets/images/projects/nebula.png" alt="Nebula" title="Nebula" width="20"/> [Nebula](https://github.com/tedivm/nebula) - Nebula provides a simplified dashboard that allows researchers to launch and manage their own servers on AWS.
 It also provides SSH Key management, scheduled shutdowns, group controls, and a variety of other features.
 * <img src="https://projects.tedivm.com/assets/images/projects/gitconsensus.png" alt="GitConsensus" title="GitConsensus" width="20"/> [GitConsensus](https://github.com/gitconsensus/GitConsensusService) - GitConsensus makes it possible to automate project governance on GitHub by using “reactions” as a voting mechanism to automatically merge (or close) pull requests.
 * <img src="https://projects.tedivm.com/assets/images/projects/githuborganizer.png" alt="GithubOrganizer" title="GithubOrganizer" width="20"/> [GithubOrganizer](https://github.com/gitconsensus/GithubOrganizer) - GithubOrganizer applies settings to teams, repositories, and issues- automatically protecting branches, applying labels, and assigning issues to projects.
 * <img src="https://projects.tedivm.com/assets/images/projects/badthings.jpg" alt="BadThings Slack Bot" title="BadThings Slack Bot" width="20"/> [BadThings Slack Bot](https://github.com/tedivm/BadThingsDailyBot) - The <a href="https://twitter.com/badthingsdaily">Bad Things Daily Twitter</a> account provides scenarios for tabletop disaster planning. This application sends random scenarios right to Slack.
 * <img src="https://projects.tedivm.com/assets/images/projects/loan.png" alt="League of Automated Nations" title="League of Automated Nations" width="20"/> [League of Automated Nations](https://github.com/LeagueOfAutomatedNations/Screeps-LoAN) - This web application is an alliance tracker for a programming game called Screeps. It maintains rankings as well as an interactive map showing which rooms are claimed by different players and alliances.
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/github-alt.png" alt="GitStars" title="GitStars" width="20"/> [GitStars](https://github.com/tedivm/gitstars) - A Github API aimed at Front End use. This API uses extensive caching and authenticated APIs to work around Github API Ratelimiting. It drives the <a href="https://gitbuttons.tedivm.com">Github Star Badges</a> on my portfolio site.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/aws.png" alt="ec2details" title="ec2details" width="20"/> [ec2details](https://github.com/tedivm/ec2details) - This service provides an API with metadata (including pricing) for every AWS EC2 instance type.
 It processes the AWS Bulk API to multiple times a day to always provide the most up to date information.
-* <img src="https://projects.tedivm.com/assets/images/projects/qr_creator.svg" alt="QR Stencil Creator" title="QR Stencil Creator" width="20"/> [QR Stencil Creator](https://github.com/tedivm/qr_stencil_creator) - A simple web application that lets users create QR codes that can be turned into stencils with a laser cutter or similar tool.
 
 
 ## Multi-Py
@@ -68,7 +69,6 @@ These tools were specifically designed to make development with Python easier.
 
 
 ## CLIs
-* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="GitBrag" title="GitBrag" width="20"/> [GitBrag](https://github.com/tedivm/gitbrag) - This CLI generates Open Source Contribution reports for Github users.
 * <img src="https://projects.tedivm.com/assets/images/projects/gitconsensus.png" alt="GitConsensus CLI" title="GitConsensus CLI" width="20"/> [GitConsensus CLI](https://github.com/gitconsensus/GitConsensusCLI) - A standalone python application and library for managing Github PRs using Reactions as a voting mechanism.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="JSONSmash" title="JSONSmash" width="20"/> [JSONSmash](https://github.com/tedivm/jsonsmash) - A node cli shell that lets users browse large json objects like they would a filesystem.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/terminal.png" alt="SecretCLI" title="SecretCLI" width="20"/> [SecretCLI](https://github.com/tedivm/secretcli) - A simple CLI tool that makes reading and writing to the <a href="https://aws.amazon.com/secrets-manager/">AWS Secrets Manager</a> super easy.
