@@ -10,7 +10,7 @@ My  book, [Terraform in Depth, is available from Manning Publications](http://mn
 
 Here's a selection of projects that I've open sourced over the years. There's a variety of applications, infrastructure as code modules, libraries from various languages, and even some game development.
 
-These **60 repositories** have **775 forks**, **4145 stars**, **223 watchers**, and **5869 commits**.
+These **62 repositories** have **781 forks**, **4212 stars**, **224 watchers**, and **5925 commits**.
 
 My professional history can be found on [LinkedIn](https://www.linkedin.com/in/roberthafner/).
 
@@ -26,6 +26,11 @@ My professional history can be found on [LinkedIn](https://www.linkedin.com/in/r
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/python.png" alt="Paracelsus" title="Paracelsus" width="20"/> [Paracelsus](https://github.com/tedivm/paracelsus) - Generate Entity Relationship Diagrams in Mermaid or Dot format for SQLAlchemy Databases.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="Stash" title="Stash" width="20"/> [Stash](https://github.com/tedious/Stash) - This caching library supports multiple backends with a consistent frontend. It supports hierarchical keys, stampede and dogpile protection, automatic miss distribution, and more.
 * <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/php.png" alt="JShrink" title="JShrink" width="20"/> [JShrink](https://github.com/tedious/JShrink) - This library minifies javascript using 100% pure PHP, allowing it to be integrated into applications with minimal work and maximum compatibility.
+
+
+## AI Development Tools
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/gear.png" alt="opencode-config" title="opencode-config" width="20"/> [opencode-config](https://github.com/tedivm/opencode-config) - My personal configuration files, skills, and custom commands for opencode; an AI-powered CLI for software engineering.
+* <img src="https://raw.githubusercontent.com/tedivm/tedivm/main/images/docker.png" alt="qwen-27b-docker" title="qwen-27b-docker" width="20"/> [qwen-27b-docker](https://github.com/tedivm/qwen-27b-docker) - Docker setup for running Qwen3-27B locally with optimized performance.
 
 
 ## Applications
